@@ -302,9 +302,11 @@
 // Version 1.1
 	{
 		"name": "Etruscans",
-		"leaderName": "Tarchon",
-		"adjective": ["Etruscan"],
-		"preferredVictoryType": "Cultural"
+		"leaderName": "Tyrrhenus",
+		"adjective": ["Eturian"],
+                "startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+                "style": "Mediterranean",
 
         "startIntroPart1": "",
         "startIntroPart2": "",
@@ -312,17 +314,43 @@
         "declaringWar": "The gods have chosen me for this endeavour.",
 		"attacked": "We will make such inflicting blows to your morale and sanity.",
 		"defeated": "You may destroy our monuments, erase our language from the world, but the gods have favor in us.",
-		"introduction": "I am Tarchon, king of the Etruscans. To you we may be aliens, but do not worry, we are a friendly people.",
-		"neutralHello": "Hello.",
-		"hateHello": "What?",
+		"introduction": "Hello?
+\nListen!
+\nListen to the stars!
+\nIt's right in front of me!
+n\I am Tarchon, king of the Etruscans. To you we may be aliens, but do not worry, we are a friendly people.",
+		"neutralHello": "When I'm out there all alone
+\nAnd feeling far from home
+\nI'm fading into blue
+\nAnd there's nothing I can do Then out on the sky like a flash
+\nSending me high, high, high
+\nYou rescue me
+\nYou saved me from a certain tragedy
+\n"I get messages from the stars
+\nWhen you're making love to me
+\nI get messages from the stars
+\nYou must be from another galaxy",
+		"hateHello":
+"When I'm far out in the night \nAnd searching for a light \nThere's darkness all around \nAnd you're nowhere to be found
+\nThen out on the sky like a flash
+\nSending me high, high, high
+\nYou rescue me
+\nYou saved me from a certain tragedy
+\nI get messages from the stars
+\nWhen you're making love to me
+\nI get messages from the stars
+\nYou must be from another galaxy",
 		"tradeRequest": "Let us exchange resources for the betterment of our nations.",
 
-        "outerColor": [20,72,189],
-        "innerColor": [207,222,255],
+        "outerColor": [252,221,248],
+	"innerColor": [12,124,244],
 
 		"favouredReligion": "Christianity",
 		"uniqueName": "Etruscan League",
-		"uniques": ["[-33]% City-State Influence degradation","Receive free [Great Artist] when you discover [Construction]","[+50]% [Culture] from City-States"]
+		"uniques": ["[-40]% [Gold] [in all cities]", 
+					"[+40]% [Gold] [in capital]", "[+1 Gold, +1 Culture, +1 Production, +1 Science] [in all cities]", "[-60]% Unhappiness from [Population] [in all non-occupied cities]",
+					"[-1 Gold, -1 Culture, -1 Production, -1 Science] [in capital]", 
+				        "[+40]% [Gold] from City-States", "[-20]% Production when constructing [{Military} {Land}] units [in all cities connected to capital] <when not at war>", "[+1 Gold, +1 Culture] from each Trade Route <when not at war>", "[+1 Gold, +1 Culture] from [Marble] tiles [in all cities]"]
 		"cities": ["Tarchuna","Vetluna","Veia","Curtna","Aritim","Clevsin","Pupluna","Perusna","Velch","Velathri",
 		"Chaire","Velzna","Birent","Arimna","Kainua","Manthva","Muthna","Pathva","Nula","Capeva"]
     },
