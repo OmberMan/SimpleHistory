@@ -1,33 +1,5 @@
 [
 	{
-		"name": "Tang",
-		"leaderName": "Wu Zetian",
-		"adjective": ["Tang"],
-		"preferredVictoryType": "Scientific",
-
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
-		"attacked": "Fool! I will disembowel you all!",
-		"defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
-		"introduction": "Greetings, I am Empress Wu Zetian. China desires peace and development. You leave us alone, we'll leave you alone.",
-		"neutralHello": "How are you today?",
-		"hateHello": "Oh. It's you?",
-		"tradeRequest": "My friend, do you think you can accept this request?",
-
-        "outerColor": [9, 112, 84],
-        "innerColor": [255,255,255],
-
-		"favouredReligion": "Taoism",
-		"uniqueName": "Art of War",
-		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
-		"cities": ["Chang'an","Luoyang","Taiyuan","Hangzhou","Chang","Jiangling","Chengdu","Guang","Youzhou","Yongchang",
-		"Shanzhou","Yizhou","Liangzhou","Lingzhou","Guangzhou","Suzhou","Kunzhou","Annan","Aizhou","Huanzhou",
-		"Andong","Chanyu","Qocho","Yiwu","Huaiyuan","Anbei","Ezhou","Songmo","Shazhou","Yanqi"]
-
-    },
-	{
 		"name": "Akkad",
 		"leaderName": "Sargon",
 		"adjective": ["Akkadian"],
@@ -56,35 +28,6 @@
 		"Eridu","Lagash","Girsu","Pashime","Susia","Tutub","Gasur","Ashur","Mari","Tuttul",
 		"Nagar","Ninive","Mardaman","Shekhna","Urkish","Nabada","Nuzi","Nimrud","Wassukani","Haran"]
 	}
-	{
-		"name": "Sumer",
-		"leaderName": "Gilgamesh",
-		"adjective": ["Sumerian"],
-		"startBias": ["Flood plains"],
-		"preferredVictoryType": "Cultural",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-
-		"declaringWar": "Your actions will guarantee your imminent death, you will be immortal.... as a villain of the epics.",
-		"attacked": "Dont you see, how I spent all these years searching for immortality? I am about to have it.",
-		"defeated": "I may die a mortal death, but my deeds will be enscribed throughout the world once your filthy cities rot.",
-		"introduction": "I am Gilgamesh, King of Uruk, would you like to be friends with me?",
-
-		"neutralHello": "Hi!",
-		"hateHello": "You want peace?",
-
-		"tradeRequest": "Greetings! We offer you this trade exchange, we understand your reasoning if you may reject this.",
-
-		"outerColor": [25,25,85],
-		"innerColor": [249,161,35],
-		"favoredReligion": "Islam",
-		"uniqueName": "Cradle of Civilization",
-		"uniques": ["Starts with [Pottery]","[+2 Culture] from [Flood plains] tiles [in all cities]"]
-		"cities": ["Eridu","Kish","Ur","Lagash","Nippur","Bad-Tibira","Sippar","Shuruppak","Adab","Isin",
-		"Larak","Abu Salabikh","Akshak","Umma","Larsa","Himazi","Girsu","Jemdet Nasr","Nina","Kuara",
-		"Dilbat","Kutha","Marad","Zabalam","Kisurra","Pazurish-Dagan","Harbidum","Kesh","Failaka"]
-	},
 	{
 		"name": "Elam",
 		"leaderName": "Kindattu",
@@ -144,34 +87,6 @@
 		"Quadesh"]
 	}
 	{
-		"name": "Hittites",
-		"leaderName": "Mursili II",
-		"adjective": ["Hittite"],
-		"startBias": ["Hill"],
-		"preferredVictoryType": "Domination",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-
-		"declaringWar": "We will build hills out of your soldier's corpses.",
-		"attacked": "Do you dare to challenge me, little one?",
-		"defeated": "You can destroy our cities, pillage our farms, but our light shall prevail to the gods.",
-		"introduction": "Welcome, stranger. I am Mursili, king of the Hittites.",
-
-		"neutralHello": "Greetings.",
-		"hateHello": "What do you want?, little one?",
-
-		"tradeRequest": "Dearest king, we can exchange goods if you will.",
-
-		"outerColor": [174,100,33],
-		"innerColor": [0,0,0],
-		"uniqueName": "Masters of Iron",
-		"uniques": ["Double quantity of [Iron] produced","[+2 Gold, +1 Production] from [Iron] tiles [in all cities]"]
-		"cities": ["Hattusa","Tarhuntassa","Ugarit","Ancyra","Alaca Hoyuk","Washshuganni","Kadesh","Tarsha","Ankuwa","Malatya",
-		"Korucutepe","Horoztepe","Acemhuyuk","Yalburt","Sanahuitta","Hakpisa","Kanesh","Ikkuwaniya","Tuwanuwa","Kusara",
-		"Tegarama","Kummani","Hahhum","Carcemish","Alep","Mashat Hoyuk","Gavur Kalesi","Arwada","Zalpa","Samuhha"]
-	}
-	{
 		"name": "Arzawa",
 		"leaderName": "Tarhuntaradu",
 		"adjective": ["Arzawan"],
@@ -226,93 +141,6 @@
 		"Maleme","Platyvola","Kalami","Stylos","Myxorrouma","Saklouria","Apodhoulou"]
 	}
 	//Iron Age civs
-	{
-		"name": "Assyria",
-		"leaderName": "Ashurbanipal",
-		"adjective": ["Assyrian"],
-		"startBias": ["Avoid [Tundra]"],
-		"preferredVictoryType": "Domination",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-
-		"declaringWar": "I fear there is no other choice but to remove you from this world!",
-		"attacked": "I think you will come to regret this decision...most unwise.",
-		"defeated": "We may be defeated, but our legacy will live on in the written word!",
-		"introduction": "I welcome you to the great kingdom of Assyria...have you come to view my library?",
-
-		"neutralHello": "?",
-		"hateHello": "?",
-
-		"tradeRequest": "Will you consider a trade?",
-
-		"outerColor": [250,253,220],
-		"innerColor": [195,130,20],
-		"favoredReligion": "Zoroastrianism",
-		"uniqueName": "Treasures of Nineveh",
-		"uniques": ["[+50]% [Science] [in annexed cities]"],
-		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
-			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
-			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"],
-	}
-	{
-		"name": "Israel",
-		"leaderName": "David",
-		"adjective": ["Israelite"],
-		"startBias": ["Oasis"],
-		"preferredVictoryType": "Domination",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-
-		"declaringWar": "You are a threat to our salvation.",
-		"attacked": "With Yahweh we shall smite your armies and follow His orders, unless He wills otherwhise.",
-		"defeated": "Even though I walk through the valley of the shadow of death, I fear no evil, for He is with me.",
-		"introduction": "Welcome to the land of the Israelites. I am David the anointed king, the leader of the people Moses had freed from slavery, and a servant of Yahweh.",
-
-		"neutralHello": "Greetings.",
-		"hateHello": "?",
-
-		"tradeRequest": "Will you consider a trade?",
-
-		"outerColor": [206,215,255],
-		"innerColor": [0,38,209],
-		"favoredReligion": "Judaism",
-		"uniqueName": "The Promised Land",
-		"uniques": ["[+1 Faith] from [Pasture] tiles [in all cities]","Earn [50]% of killed [Wounded] unit's [Cost] as [Faith]"]
-		"cities": ["Yerushalayim","Bethlehem","Gabaon","Betel","Ai","Jericho","Elteke","Gezer","Gibeton","Ekron",
-		"Beersheba","Sidon","Tyr","Yafo","Gilgal","Capernaum","Megiddo","Hebron","Jazer","Hesbon",
-		"Zafon","Manahaim","Dor","Jocneam","Ascaf"],
-	}
-	{
-		"name": "Phoenicia",
-		"leaderName": "Hiram I",
-		"adjective": ["Phoenician"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-
-		"declaringWar": "The warships will arive at any time now, be afraid.",
-		"attacked": "Your foolish boats will sink before your harbor is out of your sight.",
-		"defeated": "Take care of our ports.",
-		"introduction": "I am Hiram, king of Sur. Here you see are my grandiose ports.",
-
-		"neutralHello": "Greetings.",
-		"hateHello": "?",
-
-		"tradeRequest": "Will you consider a trade?",
-
-		"outerColor": [113,28,93],
-		"innerColor": [145,195,255],
-		"favoredReligion": "Christianity",
-		"uniqueName": "The Purple Sea",
-		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>", "Enables [All] units to enter ocean tiles <upon discovering [Compass]>","[+5 Gold] from all [Mlt] buildings"]
-		"cities": ["Sur","Sydon","Athar","Berut","Ampi","Amia","Arqa","Baalbek","Botrys","Gebal",
-		"Sarepta","Ras Shamra","Arvad","Ramitha","Tartus","Amrit","Carne","Achziv","Akko","Atlit",
-		"Japho","Dora","Elyakhin","Heyfa","Tel Shikmona"],
-	}
 	{
 		"name": "Zhou",
 		"leaderName": "Confucius",
@@ -421,32 +249,6 @@
 		"Luqiuni","Diauehi","Etiuni","Eriaki","Akhuriani"]
     },
 	{
-		"name": "Lydia",
-		"leaderName": "Croesus",
-		"adjective": ["Lydian"],
-		"startBias": ["Hill"]
-
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "The Oracle says you will be vanquished.",
-		"attacked": "It's certain that we will defeat you.",
-		"defeated": "I shouldn't have trusted the Oracle.",
-		"introduction": "I am Croesus, king of Lydia. The Oracle says we will be good friends",
-		"neutralHello": "Greetings.",
-		"hateHello": "Oh, its you.",
-		"tradeRequest": "The Oracle says we will benefit from this agreement.",
-
-        "outerColor": [27,36,100],
-        "innerColor": [255,189,100],
-
-		"favouredReligion": "Christianity",
-		"uniqueName": "First Coinage",
-		"uniques": ["Provides a [Market] in your first [3] cities for free <upon discovering [Currency]>"],
-		"cities": ["Sardis","Ephesos","Smyrna","Milawanda","Halikarnassos","Apasha","Eythrai","Klazomenai","Phocaea","Cyme",
-		"Thymbra","Adramyttium","Knidos","Beycesultan","Ankyra","Dorylaion","Ikonion"]
-    },
-	{
 		"name": "Medes",
 		"leaderName": "Cyaxares",
 		"adjective": ["Median"],
@@ -498,32 +300,6 @@
 		"Kelermes","Solocha","Ulski","Arzhan","Melgunov"]
     },
 // Version 1.1
-	{
-		"name": "Olmecs",
-		"leaderName": "Dragon Claw",
-		"adjective": ["Olmec"],
-		"preferredVictoryType": "Domination"
-
-        "startIntroPart1": "",
-        "startIntroPart2": "",
-
-        "declaringWar": "You must be removed from this world.",
-		"attacked": "Go ahead.",
-		"defeated": "Our monuments will last until the end of time.",
-		"introduction": "Greetings, stranger. I am Dragon Claw",
-		"neutralHello": "Greetings, friend.",
-		"hateHello": "What do you want now?",
-		"tradeRequest": "Friend, let us exchange goods.",
-
-        "outerColor": [32,37,48],
-        "innerColor": [128,256,128],
-
-		"favouredReligion": "Christianity",
-		"uniqueName": "Rubber People",
-		"uniques": ["[+1 Production, +1 Gold] from [Cotton] tiles [in all cities]","[+1 Happiness] from [Jungle] tiles [in all cities]"]
-		"cities": ["La Venta","San Lorenzo","Laguna de los Cerros","Tres Zapotes","Potrero Nuevo","San Andres","Cascajal","El Azuzul","El Manati","Las Limas",
-		"Arroyo Sonso","Llano del Jicaro","Cobata"]
-    },
 	{
 		"name": "Etruscans",
 		"leaderName": "Tarchon",
