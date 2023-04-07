@@ -5,7 +5,7 @@
 		"uniqueTo": "Akkad",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 13,
+		"strength": 11,
 		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
@@ -35,7 +35,7 @@
 		"uniqueTo": "Elam"
 		"unitType": "Archery",
 		"movement": 3,
-		"strength": 5,
+		"strength": 6,
 		"rangedStrength": 11,
 		"cost": 70,
 		"requiredTech": "Construction",
@@ -88,52 +88,6 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Zealot",
-		"replaces": "Swordsman"
-		"uniqueTo": "Israel"
-		"unitType": "Sword",
-		"movement": 3,
-		"strength": 10,
-		"cost": 50,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Steel",
-		"promotions": ["Shock I"]
-		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
-	},
-	{
-		"name": "Chu-Ko-Nu",
-		"unitType": "Archery",
-		"uniqueTo": "Tang",
-		"movement": 2,
-		"strength": 13,
-		"rangedStrength": 14,
-		"replaces": "Crossbowman",
-		"cost": 120,
-		"requiredTech": "Machinery",
-		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Industrialization",
-		"promotions": ["[Chu-Ko-Nu] ability"],
-		"attackSound": "crossbow"
-	},
-	{
-		"name": "Warship",
-		"uniqueTo": "Phoenicia"
-		"replaces": "Galleass"
-		"unitType": "Ranged Water",
-		"movement": 3,
-		"strength": 18,
-		"rangedStrength": 17,
-		"cost": 115,
-		"requiredTech": "Compass",
-		"obsoleteTech": "Navigation",
-		"upgradesTo": "Frigate",
-		"uniques": ["[+1] Sight","[+33]% Strength <vs cities>"],
-		"promotions": ["Coastal Raider I"]
-		"attackSound": "arrow"
-	},
-	{
 		"name": "Charging Chariot",
 		"uniqueTo": "Zhou",
 		"replaces": "Horseman"
@@ -162,18 +116,19 @@
 	},
 	{
 		"name": "Kushite Archer",
-		"replaces": "Archer"
-		"uniqueTo": "Nubia"
 		"unitType": "Archery",
+		"uniqueTo": "Nubia"
+		"replaces": "Composite Bowman",
 		"movement": 2,
-		"strength": 6,
-		"rangedStrength": 9,
-		"cost": 40,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
-		"uniques": ["Double movement in [Desert]"]
-		"attackSound": "arrow"
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"promotions": ["Accuracy I","Accuracy II"],
+                "uniqued": ["[+33]% Strength <vs cities> <when attacking>", "Double movement in [River]"],
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow",
 	},
 	{
 		"name": "Martik",
@@ -191,79 +146,40 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Anatolian Cavalry",
-		"uniqueTo": "Lydia",
-		"replaces": "Horseman",
-		"unitType": "Mounted",
-		"movement": 4,
-		"strength": 15,
-		"cost": 75,
-		"requiredTech": "Horseback Riding",
-		"requiredResource": "Horses",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-25]% Strength <vs cities> <when attacking>" ],
-		"hurryCostModifier": 20,
-		"attackSound": "horse"
-	},
-	{
 		"name": "Steppe Horseman",
 		"uniqueTo": "Medes",
 		"replaces": "Horseman",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 13,
+		"strength": 12,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Double movement in [Hill]"],
+                "promotions": ["Blitz"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
 	{
-		"name": "Saka Horse Archer",
-		"uniqueTo": "Scythia"
-		"replaces": "Chariot Archer"
-		"unitType": "Archery",
-		"movement": 4,
-		"strength": 8,
-		"rangedStrength": 12,
-		"cost": 60,
-		"requiredTech": "The Wheel",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit"],
-		"attackSound": "arrow"
-	},
-	{
-		"name": "Maceman",
-		"uniqueTo": "Olmecs"
-		"replaces": "Warrior"
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 10,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects","[+25]% Strength <vs [Mounted] units>","[+25]% Strength <vs [Archery] units>"]
-		"attackSound": "nonmetalhit",
-	}
-	{
 		"name": "Italic Infantry",
 		"uniqueTo": "Etruscans"
-		"replaces": "Swordsman"
+		"replaces": "Swordsman",
 		"unitType": "Sword",
-		"movement": 2,
-		"strength": 16,
-		"cost": 75,
-		"requiredTech": "Iron Working",
+		"movement": 1,
+		"strength": 13,
+		"cost": 90,
+		"requiredTech": "Currency",
+		"requiredResource": "Marble",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
-		"requiredResource": "Iron",
-		"hurryCostModifier": 20,
-		"promotions": ["Drill I","Cover I"]
-		"attackSound": "metalhit"
+                "uniques": ["[+1] Movement <in [Friendly Land] tiles>", "[-20]% Strength <when attacking>", "[+40]% Strength <when defending>", "[+20]% Strength <when above [49] HP> <when defending> <vs [Ranged] units>", "[+10]% Strength <within [2] tiles of a [City center]"],
+		"hurryCostModifier": 25,
+		"attackSound": "nonmetalhit",
+		"civilopediaText": [
+			{"text": "A giant so big that you can only see their legs. Or at least what is told across the lands."},
+        ]
+	},
 	},
 ]
