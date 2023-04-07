@@ -12,7 +12,7 @@
 	}
 	{
 		"name": "Statue Maker",
-		"replaces": "Stoneworks"
+		"replaces": "Stone Works"
 		"uniqueTo": "Elam"
 		"happiness": 1,
 		"faith": 1,
