@@ -2,11 +2,12 @@
 	{
 		"name": "Oasis Farm",
 		"uniqueTo": "Nubia"
-		"terrainsCanBeBuiltOn": ["Flood plains"],
-		"food": 2,
-		"turnsToBuild": 6,
-		"techRequired": "Agriculture",
-		"uniques": ["[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>"
-            "Pillaging this improvement yields approximately [+18 Gold]"]
+		"terrainsCanBeBuiltOn": ["Desert", "Plains"],
+		"faith": 1,
+                "culture" 1,
+		"turnsToBuild": 7,
+		"techRequired": "Masonry",
+		"uniques": ["Removes removable features when built", "Adjacent enemy units ending their turn take [5] damage"
+            "Pillaging this improvement yields approximately [+18 Gold]", "Cannot be built on [Oasis] tiles", "Cannot be built on [Hill] tiles", "[-1 Faith, +1 Culture, +1 Gold] <starting from the [Medieval era]>"]
 	},
 ]
