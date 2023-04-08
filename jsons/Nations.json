@@ -203,9 +203,9 @@
     },
 	{
 		"name": "Nubia",
-		"leaderName": "Amanitore",
+		"leaderName": "Piye",
 		"adjective": ["Nubian"],
-		"startBias": ["Desert","Oasis"],
+		"startBias": ["Desert","River"],
                 "preferredVictoryType": "Domination",
                 "style": "African",
 
@@ -224,7 +224,8 @@
         "innerColor": [79,49,11],
 
 		"uniqueName": "Ta-Seti",
-		"uniques": ["[+1 Food, +1 Production] from [Desert] tiles [in all cities]","[-1 Food] from [Grassland] tiles [in all cities]"],
+		"uniques":["[+25]% Production when constructing [Ranged] units [in all cities with a garrison]", "Empire enters a [5] Golden Age <upon conquering a city> <with [50]% chance>",
+					"[+15]% Strength <for [Archery] units> <when attacking> <vs cities>"],
 		"cities": ["Meroe","Napata","Kerma","Nuri","Kawa","Buhen","Abu Simbel","Nabta Playa","El-Kurru","Sedeinga",
 		"Heh","Shaat","Iken","Abu Simbel","Dengeil","Miam","Tombos","Kurgus","Toshka","Soleb"]
     },
@@ -244,7 +245,7 @@
 		"defeated": "The mountains are our monuments, indestructible forever.",
 		"introduction": "I am Argishti, king of Urartu, I welcome you to our numerous mountains.",
 		"neutralHello": "Greetings.",
-		"hateHello": "What do you want?",
+		"hateHello": "Daddy?",
 		"tradeRequest": "Would you be kind to accept this agreement of ours?",
 
         "outerColor": [94,48,24],
@@ -272,15 +273,15 @@
 		"defeated": "This may be your first conquest, but our legacy is engrained today.",
 		"introduction": "I am Cyaxares, king of the Medians.",
 		"neutralHello": "Greetings.",
-		"hateHello": "Oh, its you.",
+		"hateHello": "Fuck you all my homies hate you.",
 		"tradeRequest": "Friend, would you accept this agreement?",
 
         "outerColor": [29,145,29],
-        "innerColor": [255,255,255],
+        "innerColor": [220,150,165],
 
 		"favouredReligion": "Zoroastrianism",
-		"uniqueName": "The North of Mesopotamia",
-		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-25]% maintenance costs <for [Ranged] units>"],
+		"uniqueName": "Praise Zurvan",
+		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-25]% maintenance costs <for [Ranged] units>", "[+2 Science, +1 Production] from each Trade Route"],
 		"cities": ["Hagmatana","Khalmanu","Erbil","Tuspa","Raga","Qumis","Vishpauzati","Tusha","Mouru","Termez",
 		"Zariaspa","Zranka","Kirkuk","Amida","Teishebani"]
     },
