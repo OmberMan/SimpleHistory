@@ -17,7 +17,7 @@
 	{
 		"name": "War Cart",
 		"replaces": "Chariot Archer"
-		"uniqueTo": "Sumer"
+		"uniqueTo": "Sumeria"
 		"unitType": "Mounted",
 		"movement": 3,
 		"strength": 10,
@@ -41,7 +41,7 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
-		"promotions": ["Barrage I"]
+		"uniques": ["[+20]% Strength <when fighting in [Enemy land] tiles> <when attacking>", "No movement cost to pillage"],
 		"attackSound": "arrow"
 	},
 	{
@@ -55,7 +55,7 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
-		"promotions": ["Drill I"]
+		"promotions": ["Shock I"]
 	},
 	{
 		"name": "Anatolian Spearman",
@@ -83,7 +83,8 @@
 		"cost": 80,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
-                "promotions": ["Barrage I", "Accuracy I"]
+                "promotions": ["Quick Study"]
+                "uniques": ["[+1] Range"],
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
@@ -110,8 +111,8 @@
 		"unitType": "Civilian",
 		"uniques": ["Can [Spread Religion] [3] times", "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"[-1] Sight", "Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
-		"movement": 4,
+			"Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
+		"movement": 3,
 		"religiousStrength": 1200
 	},
 	{
@@ -123,10 +124,11 @@
 		"strength": 7,
 		"rangedStrength": 11,
 		"cost": 75,
+                "maintenance": 0,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
-		"promotions": ["Accuracy I","Accuracy II"],
-                "uniqued": ["[+33]% Strength <vs cities> <when attacking>", "Double movement in [River]"],
+		"promotions": ["Accuracy I","Barrage I"],
+                "uniqued": ["[+15]% Strength <vs cities> <when attacking>", "Double movement in [River]"],
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow",
 	},
