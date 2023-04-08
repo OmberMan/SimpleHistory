@@ -4,7 +4,7 @@
 		"uniqueTo": "Nubia"
 		"terrainsCanBeBuiltOn": ["Desert", "Plains"],
 		"faith": 1,
-                "culture" 1,
+                "culture": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Masonry",
 		"uniques": ["Removes removable features when built", "Adjacent enemy units ending their turn take [5] damage"
