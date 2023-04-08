@@ -9,7 +9,20 @@
 		"cost": 90,
 		"uniques": ["New [Military] units start with [20] Experience [in this city]", "[+5]% Production when constructing [Military] units [in this city]"],
 		"requiredTech": "Bronze Working"
-	}
+	},
+	{
+		"name": "Fanu",
+		"uniqueTo": "Etruscans"
+		"greatPersonPoints": {"Great Merchant": 1},
+		"maintenance": 0,
+                "cost": 200,
+		"hurryCostModifier": 100,
+		"uniques": ["Unsellable", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] [in this city] <during We Love The King Day>", "Excess Food converted to Production when under construction", "Cost increases by [15] per owned city", "Gain [70]-[120] [Gold]", "Gain [30]-[70] [Culture]", "Can only be built [in all cities connected to capital]", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured"],
+		"requiredTech": "Mathematics",
+		"civilopediaText": [
+			{"text": "Somewhere across the sea of time, a love immortal such as mine, will come to me, oh who is she. \nImmortal she, eternally."},
+        ]
+	},
 	{
 		"name": "Statue Maker",
 		"replaces": "Stone Works"
@@ -22,7 +35,7 @@
 		"uniques": ["[+1 Culture] from [Stone] tiles [in this city]"],
 		"specialistSlots": {"Artist": 1},
 		"requiredTech": "Masonry"
-	},
+        },
 	{
 		"name": "Bronze Forge",
 		"replaces": "Forge",
@@ -40,10 +53,9 @@
 		"replaces": "Aqueduct",
 		"maintenance": 1,
 		"cost": 125,
-		"food": 2,
-                "happiness": 1,
+                "happiness": 2,
 		"hurryCostModifier": 20,
-		"uniques": ["[50]% Food is carried over after population increases [in this city]"],
+		"uniques": ["[60]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Construction"
 	},
 	{
@@ -99,6 +111,6 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["[+1 Happiness] [in this city] <after founding a Pantheon>", "Destroyed when the city is captured"]
 	},
 ]
