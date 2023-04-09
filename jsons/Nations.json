@@ -137,8 +137,8 @@
 
 		"tradeRequest": "Greetings mortal, we can have goods to exchange.",
 
-		"innerColor": [2,227,146],
-		"outerColor": [210,54,4],
+		"innerColor": [2,237,106],
+		"outerColor": [220,54,4],
 		"uniqueName": "First civilization of Europe",
 		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+1 Culture] from all [Happiness] buildings <during a Golden Age>", "[+15]% [Gold] [in all coastal cities] <when not at war>", "[+10]% [Science] [in all coastal cities] <when not at war>", "[+15]% [Culture] [in all coastal cities] <when not at war", "[+1 Culture, +1 Science] from each Trade Route"]
 		"cities": ["Knossos","Phaistos","Malia","Zakros","Akotiri","Gournia","Myrtos","Agia Triadha","Ida","Khania",
@@ -249,7 +249,7 @@
 		"tradeRequest": "Would you be kind to accept this agreement of ours?",
 
         "outerColor": [14,58,124],
-        "innerColor": [255,247,242],
+        "innerColor": [235,227,212],
 
 		"favouredReligion": "Christianity",
 		"uniqueName": "Kingdom of Van",
@@ -277,7 +277,7 @@
 		"tradeRequest": "Friend, would you accept this agreement?",
 
         "outerColor": [39,165,29],
-        "innerColor": [215,105,115],
+        "innerColor": [215,65,95],
 
 		"favouredReligion": "Zoroastrianism",
 		"uniqueName": "Praise Zurvan",
