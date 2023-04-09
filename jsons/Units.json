@@ -109,7 +109,7 @@
 		"replaces": "Missionary"
 		"uniqueTo": "India"
 		"unitType": "Civilian",
-		"uniques": ["Can [Spread Religion] [3] times", "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there",
+		"uniques": ["Can [Spread Religion] [2] times", "All adjacent units heal [10] HP when healing", "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there", "Ignores terrain cost", "[-25]% Strength for enemy [Land] units in adjacent [Friendly land] tiles <when attacking>",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
 		"movement": 3,
