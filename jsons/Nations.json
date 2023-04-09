@@ -137,8 +137,8 @@
 
 		"tradeRequest": "Greetings mortal, we can have goods to exchange.",
 
-		"innerColor": [2,237,106],
-		"outerColor": [220,54,4],
+		"outerColor": [2,247,93],
+		"innerColor": [220,54,24],
 		"uniqueName": "First civilization of Europe",
 		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+1 Culture] from all [Happiness] buildings <during a Golden Age>", "[+15]% [Gold] [in all coastal cities] <when not at war>", "[+10]% [Science] [in all coastal cities] <when not at war>", "[+15]% [Culture] [in all coastal cities] <when not at war", "[+1 Culture, +1 Science] from each Trade Route"]
 		"cities": ["Knossos","Phaistos","Malia","Zakros","Akotiri","Gournia","Myrtos","Agia Triadha","Ida","Khania",
@@ -221,7 +221,7 @@
 		"tradeRequest": "Let us exchange goods for our betterment.",
 
         "outerColor": [218,188,151],
-        "innerColor": [79,49,11],
+        "innerColor": [74,54,11],
 
 		"uniqueName": "Ta-Seti",
 		"uniques":["[+25]% Production when constructing [Ranged] units [in all cities with a garrison]", "Empire enters a [5] Golden Age <upon conquering a city> <with [50]% chance>",
