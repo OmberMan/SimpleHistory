@@ -36,12 +36,12 @@
 		"unitType": "Archery",
 		"movement": 3,
 		"strength": 6,
-		"rangedStrength": 11,
+		"rangedStrength": 10,
 		"cost": 70,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
-		"uniques": ["[+20]% Strength <when fighting in [Enemy land] tiles> <when attacking>", "No movement cost to pillage"],
+		"uniques": ["[+20]% Strength <when fighting in [Enemy Land] tiles> <when attacking>", "No movement cost to pillage"],
 		"attackSound": "arrow"
 	},
 	{
@@ -112,7 +112,7 @@
 		"uniques": ["Can [Spread Religion] [2] times", "All adjacent units heal [10] HP when healing", "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there", "Ignores terrain cost", "[-25]% Strength for enemy [Land] units in adjacent [Friendly land] tiles <when attacking>",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
-		"movement": 3,
+		"movement": 5,
 		"religiousStrength": 1200
 	},
 	{
@@ -125,6 +125,7 @@
 		"rangedStrength": 11,
 		"cost": 75,
                 "maintenance": 0,
+                "hurryCostModifier": 0,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"promotions": ["Accuracy I","Barrage I"],
@@ -177,7 +178,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
                 "uniques": ["[+1] Movement <in [Friendly Land] tiles>", "[-20]% Strength <when attacking>", "[+40]% Strength <when defending>", "[+20]% Strength <when above [49] HP> <when defending> <vs [Ranged] units>", "[+10]% Strength <within [2] tiles of a [City center]"],
-		"hurryCostModifier": 25,
+		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit",
 		"civilopediaText": [
 			{"text": "A giant so big that you can only see their legs. Or at least what is told across the lands."},
