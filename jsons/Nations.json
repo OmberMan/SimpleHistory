@@ -137,8 +137,8 @@
 
 		"tradeRequest": "Greetings mortal, we can have goods to exchange.",
 
-		"outerColor": [5,83,247],
-		"innerColor": [220,54,24],
+		"outerColor": [45,103,252],
+		"innerColor": [220,64,34],
 		"uniqueName": "First civilization of Europe",
 		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+1 Culture] from all [Happiness] buildings <during a Golden Age>", "[+15]% [Gold] [in all coastal cities] <when not at war>", "[+10]% [Science] [in all coastal cities] <when not at war>", "[+15]% [Culture] [in all coastal cities] <when not at war>", "[+1 Culture, +1 Science] from each Trade Route"]
 		"cities": ["Knossos","Phaistos","Malia","Zakros","Akotiri","Gournia","Myrtos","Agia Triadha","Ida","Khania",
