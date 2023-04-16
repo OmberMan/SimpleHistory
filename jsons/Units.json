@@ -144,7 +144,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+25]% XP gained from combat"],
 		"promotions": ["Drill I"],
 		"attackSound": "metalhit"
 	},
@@ -177,7 +177,7 @@
 		"requiredResource": "Marble",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
-                "uniques": ["[+1] Movement <in [Friendly Land] tiles>", "[-20]% Strength <when attacking>", "[+40]% Strength <when defending>", "[+20]% Strength <when above [49] HP> <when defending> <vs [Ranged] units>", "[+10]% Strength <within [2] tiles of a [City center]"],
+                "uniques": ["[+1] Movement <in [Friendly Land] tiles>", "[-20]% Strength <when attacking>", "[+40]% Strength <when defending>", "[+20]% Strength <when above [49] HP> <when defending> <vs [Ranged] units>", "[+10]% Strength <within [2] tiles of a [City center]>"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit",
 		"civilopediaText": [
