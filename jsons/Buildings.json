@@ -54,6 +54,7 @@
 		"maintenance": 1,
 		"cost": 125,
                 "happiness": 2,
+                "culture": 1,
 		"hurryCostModifier": 20,
 		"uniques": ["[60]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Construction"
@@ -100,7 +101,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 30,
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "[-5]% Unhappiness from [Population] [in this city]"]
+		"uniques": ["[-7]% Unhappiness from [Population] [in this city]"]
 	},
 	{
 		"name": "Monumental Complex",
