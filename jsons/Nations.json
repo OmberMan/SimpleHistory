@@ -45,8 +45,8 @@
 		"defeated": "Woe to you.",
 		"introduction": "Welcome, foreigner. I am Kindattu of Elam.",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do you want?",
+		"neutralHello": "We're the Elamites.",
+		"hateHello": "Kill Yourself . \n∆  ∆ \nNow",
 
 		"tradeRequest": "Foreigner, we can exchange goods if you will.",
 
@@ -132,8 +132,8 @@
 		"defeated": "I wish you fortune for the ages to come.",
 		"introduction": "I am Minos of Crete, bow down for you are mortals.",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do you want?",
+		"neutralHello": "Hello, got your gift basket?.",
+		"hateHello": "What do YOU want?",
 
 		"tradeRequest": "Greetings mortal, we can have goods to exchange.",
 
@@ -216,7 +216,7 @@
 		"attacked": "Nice for us that you want defeat.",
 		"defeated": "Our monuments will last for eternity, for you shall certainly fall.",
 		"introduction": "I am Amanitore, the Queen of Nubia. Speak more about your people, we can share information about each other.",
-		"neutralHello": "Greetings.",
+		"neutralHello": "Hello we are still being plagued by hordes of vicious barbarians coming from the direct opposite direction of our borders facing you Yes.",
 		"hateHello": "You?",
 		"tradeRequest": "Let us exchange goods for our betterment.",
 
@@ -244,7 +244,7 @@
 		"attacked": "How dare you underestimate us.",
 		"defeated": "The mountains are our monuments, indestructible forever.",
 		"introduction": "I am Argishti, king of Urartu, I welcome you to our numerous mountains.",
-		"neutralHello": "Greetings.",
+		"neutralHello": "I forgot what the Assyrians say in this situations.",
 		"hateHello": "Daddy?",
 		"tradeRequest": "Would you be kind to accept this agreement of ours?",
 
@@ -264,6 +264,7 @@
 		"adjective": ["Median"], 
                 "preferredVictoryType": "Domination",
                 "style": "Mesopotamian",
+                "startBias": ["Hill"],
 
         "startIntroPart1": "",
         "startIntroPart2": "",
@@ -272,12 +273,12 @@
 		"attacked": "How dare you.",
 		"defeated": "This may be your first conquest, but our legacy is engrained today.",
 		"introduction": "I am Cyaxares, king of the Medians.",
-		"neutralHello": "Greetings.",
-		"hateHello": "Fuck you all my homies hate you.",
+		"neutralHello": "Hey.",
+		"hateHello": "Fuck you all my homies hate you your capital will be razed at temperatures upwards of 1400°C.",
 		"tradeRequest": "Friend, would you accept this agreement?",
 
-        "outerColor": [39,165,29],
-        "innerColor": [215,65,95],
+        "outerColor": [49,161,35],
+        "innerColor": [215,68,96],
 
 		"favouredReligion": "Zoroastrianism",
 		"uniqueName": "Praise Zurvan",
