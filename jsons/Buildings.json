@@ -56,7 +56,7 @@
                 "happiness": 2,
                 "culture": 1,
 		"hurryCostModifier": 20,
-		"uniques": ["[60]% Food is carried over after population increases [in this city]"],
+		"uniques": ["[65]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Construction"
 	},
 	{
@@ -100,18 +100,18 @@
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 30,
-		"requiredTech": "Philosophy",
+		"requiredTech": "Calendar",
 		"uniques": ["[-7]% Unhappiness from [Population] [in this city]"]
 	},
 	{
 		"name": "Monumental Complex",
 		"uniqueTo": "Etruscans",
 		"replaces": "Monument",
-		"culture": 2,
+		"culture": 3,
                 "greatPersonPoints": {"Great Artist": 1},
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
-		"uniques": ["[+1 Happiness] [in this city] <after founding a Pantheon>", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Happiness] [in this city] <after founding a Pantheon>"]
 	},
 ]
