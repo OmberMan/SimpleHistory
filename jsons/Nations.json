@@ -65,7 +65,7 @@
 		"adjective": ["Mittani"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
-                "style": "Mesopotamian",
+  "style": "Mesopotamian",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -75,16 +75,18 @@
 		"defeated": "Woe to you.",
 		"introduction": "Welcome, stranger. I am Parshatatar, king of the Hurrians.",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do you want?",
+		"neutralHello": "LORD INDRA SEND HIM TO HELL
+\nWhere his unholy torment may be a testament to his wretched life and wicked ways. \nHis skin flayed and viscera scattered about. \nWhere he will weep and cry but it will only bolster the resolve of his tormentors. \nFor they hate him. \nHe will know what true fear and pain is. \nBut it will be no solace for there will be no end and no escape. \nHis eternity will be soured with an anguish one could never imagine. \nHis skin will crack like desert soil, and his veins will bleed like the Indus and the Euphrates, but never enough to quench the thirst of his abusers. \nHell is now as hell will always be, has always been. \nBut the fear into his eyes, his scent and his resolves will be a new heaven to me.",
+		"hateHello": "LORD INDRA SEND HIM TO HELL
+\nWhere his unholy torment may be a testament to his wretched life and wicked ways. His skin flayed and viscera scattered about. Where he will weep and cry but it will only bolster the resolve of his tormentors. For they hate him. He will know what true fear and pain is. But it will be no solace for there will be no end and no escape. His eternity will be soured with an anguish one could never imagine. His skin will crack like desert soil, and his veins will bleed like the Indus and the Euphrates, But never enough to quench the thirst of his abusers. Hell is now as hell will always be, has always been. But the fear into his eyes, his scent and his resolves will be a new heaven to me.",
 
 		"tradeRequest": "Stranger, we can exchange goods if you will.",
 
-		"outerColor": [75,63,46],
+		"outerColor": [95,83,36],
 		"innerColor": [175,184,230],
 		"favoredReligion": "Hinduism",
-		"uniqueName": "Hurrian Heritage",
-		"uniques": ["[3] free [Chariot Archer] units appear <upon discovering [Horseback Riding]>"]
+		"uniqueName": "Aryan Heritage",
+		"uniques": ["[2] free [Chariot Archer] units appear <before the [Renaissance era]> <upon declaring war with a major Civilization>", "[2] free [Lancer] units appear <starting in the [Renaissance era]> <upon declaring war with a major Civilization>", "[1] free [Atomic Bomb] units appear <during the [Atomic era]> <upon declaring war with a major Civilization>", "[1] free [Mechanized Infantry] units appear <during the [Information era]> <upon declaring war with a major Civilization>", "[-33]% Production when constructing [All] buildings [in capital]", "[+33]% Production when constructing [Melee] units [in capital]", "[-67]% maintenance costs <for [Mounted] units>", "[+2 Faith, +1 Production] [in all annexed cities]", "Receive triple Gold from Barbarian encampments and pillaging Cities"],
 		"cities": ["Washukanni","Irrite","Taite","Karrhai","Alshe","Qattara","Terqa","Tell Fekheriye","Urkish","Tell Chuera",
 		"Nagar","Tell al-Hamadya","Emar","Arbeles","Arrapha","Hanigalbat","Karkamis","Halab","Nukhashe","Ashtata",
 		"Quadesh"]
