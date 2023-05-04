@@ -46,16 +46,16 @@
 	},
 	{
 		"name": "Bronze Axeman",
-		"replaces": "Warrior",
+		"replaces": "Spearman",
 		"uniqueTo": "Mitanni",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 10,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
+		"strength": 12,
+		"cost": 48,
+		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
-		"promotions": ["Shock I"]
+  "uniques": ["[+25]% Strength <vs [Sword] units>", "[-15]% Strength <when defending>", "[+25]% XP gained from combat", "[+15]% Strength <when attacking>"],
 	},
 	{
 		"name": "Anatolian Spearman",
