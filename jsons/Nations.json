@@ -50,7 +50,7 @@
 
 		"tradeRequest": "Foreigner, we can exchange goods if you will.",
 
-		"outerColor": [203,176,157],
+		"outerColor": [223,176,157],
 		"innerColor": [30,70,64],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Indus Trade Network",
@@ -82,7 +82,7 @@
 		"tradeRequest": "Stranger, we can exchange goods if you will.",
 
 		"outerColor": [95,83,36],
-		"innerColor": [175,184,230],
+		"innerColor": [230,84,35],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Aryan Heritage",
 		"uniques": ["[2] free [Chariot Archer] units appear <before the [Renaissance era]> <upon declaring war with a major Civilization>", "[2] free [Lancer] units appear <starting in the [Renaissance era]> <upon declaring war with a major Civilization>", "[2] free [Atomic Bomb] units appear <during the [Atomic era]> <upon declaring war with a major Civilization>", "[2] free [Mechanized Infantry] units appear <during the [Information era]> <upon declaring war with a major Civilization>", "[-33]% Production when constructing [All] buildings [in capital]", "[+33]% Production when constructing [Melee] units [in capital]", "[-67]% maintenance costs <for [Mounted] units>", "[+1 Faith, +1 Production] [in all annexed cities]", "Receive triple Gold from Barbarian encampments and pillaging Cities"],
@@ -91,7 +91,7 @@
 		"Quadesh"]
 	}
 	{
-		"name": "Arzawa",
+		"name": "Caria",
 		"leaderName": "Mausoleus",
 		"adjective": ["Carian"],
 		"startBias": ["Hill"],
@@ -109,10 +109,10 @@
 		"neutralHello": "Ah. Greetings.",
 		"hateHello": "You're looking down on me aren't you?",
 
-		"tradeRequest": "Dearest king, we can exchange goods if you will. Not if you won't.",
+		"tradeRequest": "Dearest king, we can exchange goods if you will. Not if you won't it's all the same old shit.",
 
 		"outerColor": [225,220,213],
-		"innerColor": [131,80,175],
+		"innerColor": [176,70,138],
 		"uniqueName": "Barbarian Ideal",
 		"uniques": ["All newly-trained [Sword] units [in all cities] receive the [Siege] promotion <in cities with a [World Wonder]>","All newly-trained [Gunpowder] units [in all cities] receive the [Siege] promotion <in cities with a [World Wonder]>","[+33]% City Strength from defensive buildings <in cities with a [Wonder]>", "Allied City-States provide [Science] equal to [10]% of what they produce for themselves", "[-50]% [Gold] from Trade Routes"]
 		"cities": ["Halicarnassus","Apasa","Wilusa","Millawanda","Manisa","Smyrna","Puranda","Patara","Parha","Sardis","Lazpas",
@@ -140,8 +140,8 @@
 
 		"tradeRequest": "Greetings mortal, we can have goods to exchange.",
 
-		"outerColor": [45,103,252],
-		"innerColor": [220,64,34],
+		"outerColor": [45,113,252],
+		"innerColor": [240,44,24],
 		"uniqueName": "First civilization of Europe",
 		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+2 Happiness] from all [Culture] buildings", "[+3 Culture] from all [Happiness] buildings <during a Golden Age>", "[25]% of excess happiness converted to [Science]", "[+25]% [Gold] [in all coastal cities] <when not at war>", "[+15]% [Culture] [in all coastal cities] <during a Golden Age>", "[+1 Culture, +1 Science] from each Trade Route"]
 		"cities": ["Knossos","Phaistos","Malia","Zakros","Akotiri","Gournia","Myrtos","Agia Triadha","Ida","Khania",
@@ -224,7 +224,7 @@
 		"tradeRequest": "Let us exchange goods for our betterment.",
 
         "outerColor": [218,188,151],
-        "innerColor": [74,54,11],
+        "innerColor": [74,64,11],
 
 		"uniqueName": "Ta-Seti",
 		"uniques":["[+25]% Production when constructing [Ranged] units [in all cities with a garrison]", "Empire enters a [5] Golden Age <upon conquering a city> <with [50]% chance>",
@@ -281,7 +281,7 @@
 		"tradeRequest": "Friend, would you accept this agreement?",
 
         "outerColor": [49,161,35],
-        "innerColor": [215,68,96],
+        "innerColor": [68,196,215],
 
 		"favouredReligion": "Zoroastrianism",
 		"uniqueName": "Praise Zurvan",
