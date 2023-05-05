@@ -18,7 +18,7 @@ BuildingIcons/Bronze Forge
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Croeseid Mint
+BuildingIcons/Electrum Refinery
   rotate: false
   xy: 4, 628
   size: 200, 200
@@ -116,7 +116,7 @@ BuildingIcons/Vedic Library
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Ziggurat
+BuildingIcons/Fanu
   rotate: false
   xy: 420, 94
   size: 200, 200
@@ -165,7 +165,7 @@ NationIcons/Etruscans
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Hittites
+NationIcons/Caria
   rotate: false
   xy: 4, 4
   size: 200, 200
