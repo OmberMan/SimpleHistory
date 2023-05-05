@@ -76,8 +76,7 @@
 		"introduction": "Welcome, stranger. I am Parshatatar, king of the Hurrians.",
 
 		"neutralHello": "MIGHTY INDRAJIT kill him! Kill him NOW!",
-		"hateHello": "LORD INDRA SEND HIM TO HELL
-\nWhere his unholy torment may be a testament to his wretched life and wicked ways. \nHis skin flayed and viscera scattered about. \nWhere he will weep and cry but it will only bolster the resolve of his tormentors. \nFor they hate him. \nHe will know what true fear and pain is. \nBut it will be no solace for there will be no end and no escape. \nHis eternity will be soured with an anguish one could never imagine. \nHis skin will crack like desert soil, and his veins will bleed like the Indus and the Euphrates, but never enough to quench the thirst of his abusers. \nHell is now as hell will always be, has always been. \nBut the fear into his eyes, his scent and his resolves will be a new heaven to me.",
+		"hateHello": "LORD INDRA SEND HIM TO HELL!\nWhere his unholy torment may be a testament to his wretched life and wicked ways. \nHis skin flayed and viscera scattered about. \nWhere he will weep and cry but it will only bolster the resolve of his tormentors. \nFor they hate him. \nHe will know what true fear and pain is. \nBut it will be no solace for there will be no end and no escape. \nHis eternity will be soured with an anguish one could never imagine. \nHis skin will crack like desert soil, and his veins will bleed like the Indus and the Euphrates, but never enough to quench the thirst of his abusers. \nHell is now as hell will always be, has always been. \nBut the fear into his eyes, his scent and his resolves will be a new heaven to me.",
 
 		"tradeRequest": "Stranger, we can exchange goods if you will.",
 
@@ -106,7 +105,7 @@
 		"defeated": "Sooner your cities and farms will be destroyed by the wrath of the gods, but I need you to do me a solid once I'm gone. Please take care of my sister: she's always been a very sentimental person who's prone to despair, and I just want to make sure she gets over my death. Make sure she doesn't do anything extreme or unhealthy while she copes, and avoid promoting such behavior by romanticizing that stuff; oh and don't let her go see tragedies. Thanks. \n\n...The what of Halicarnassus?",
 		"introduction": "Welcome to Caria, I am the King Mausoleus.",
 
-		"neutralHello": "Ah. Greetings.",
+		"neutralHello": "Ah Greetings. I feel so empty.",
 		"hateHello": "You're looking down on me aren't you?",
 
 		"tradeRequest": "Dearest king, we can exchange goods if you will. Not if you won't it's all the same old shit.",
@@ -130,7 +129,7 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "Your nation shall be crushed.",
+		"declaringWar": "Your nation shall be crushed by our.",
 		"attacked": "A lion is more civilized than what you are, do you want to go to Daedalus?",
 		"defeated": "I wish you fortune for the ages to come.",
 		"introduction": "I am Minos of Crete, bow down for you are mortals.",
@@ -220,7 +219,7 @@
 		"defeated": "Our monuments will last for eternity, for you shall certainly fall.",
 		"introduction": "I am Amanitore, the Queen of Nubia. Speak more about your people, we can share information about each other.",
 		"neutralHello": "Hello we are still being plagued by hordes of vicious barbarians coming from the direct opposite direction of our borders facing you Yes.",
-		"hateHello": "You?",
+		"hateHello": "You? Seriously?",
 		"tradeRequest": "Let us exchange goods for our betterment.",
 
         "outerColor": [218,188,151],
