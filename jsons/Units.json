@@ -60,7 +60,7 @@
 	{
 		"name": "Anatolian Spearman",
 		"replaces": "Spearman",
-		"uniqueTo": "Arzawa",
+		"uniqueTo": "Caria",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 10,
