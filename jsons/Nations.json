@@ -88,36 +88,7 @@
 		"cities": ["Washukanni","Irrite","Taite","Karrhai","Alshe","Qattara","Terqa","Tell Fekheriye","Urkish","Tell Chuera",
 		"Nagar","Tell al-Hamadya","Emar","Arbeles","Arrapha","Hanigalbat","Karkamis","Halab","Nukhashe","Ashtata",
 		"Quadesh"]
-	}
-	{
-		"name": "Caria",
-		"leaderName": "Mausoleus",
-		"adjective": ["Carian"],
-		"startBias": ["Hill"],
-  "style": "Mediterranean",
-"preferredVictoryType": "Neutral",
-
-		"startIntroPart1": "",
-		"startIntroPart2": "",
-
-		"declaringWar": "You are a danger to us.",
-		"attacked": "Ha?",
-		"defeated": "Sooner your cities and farms will be destroyed by the wrath of the gods, but I need you to do me a solid once I'm gone. Please take care of my sister: she's always been a very sentimental person who's prone to despair, and I just want to make sure she gets over my death. Make sure she doesn't do anything extreme or unhealthy while she copes, and avoid promoting such behavior by romanticizing that stuff; oh and don't let her go see tragedies. Thanks. \n\n...The what of Halicarnassus?",
-		"introduction": "Welcome to Caria, I am the King Mausoleus.",
-
-		"neutralHello": "Ah Greetings. I feel so empty.",
-		"hateHello": "You're looking down on me aren't you?",
-
-		"tradeRequest": "Dearest king, we can exchange goods if you will. Not if you won't it's all the same old shit.",
-
-		"outerColor": [225,220,213],
-		"innerColor": [176,70,138],
-		"uniqueName": "Barbarian Ideal",
-		"uniques": ["All newly-trained [Sword] units [in all cities] receive the [Siege] promotion <in cities with a [World Wonder]>","All newly-trained [Gunpowder] units [in all cities] receive the [Siege] promotion <in cities with a [World Wonder]>","[+33]% City Strength from defensive buildings <in cities with a [Wonder]>", "Allied City-States provide [Science] equal to [10]% of what they produce for themselves", "[-50]% [Gold] from Trade Routes"]
-		"cities": ["Halicarnassus","Apasa","Wilusa","Millawanda","Manisa","Smyrna","Puranda","Patara","Parha","Sardis","Lazpas",
-		"Arzawa","Ahhiyawa","Hapalla","Seha","Masa","Appawiya","Kuwaliya","Pitassa","Karkisa","Lukka",
-		"Siyanta","Zippasla"]
-	}
+	},
 	{
 		"name": "Minoa",
 		"leaderName": "Minos",
