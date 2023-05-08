@@ -56,21 +56,7 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
   "uniques": ["[+25]% Strength <vs [Sword] units>", "[-15]% Strength <when defending>", "[-25]% XP gained from combat", "[+15]% Strength <when attacking>"],
-	},
-	{
-		"name": "Anatolian Spearman",
-		"replaces": "Spearman",
-		"uniqueTo": "Caria",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 10,
-		"cost": 45,
-		"requiredTech": "Bronze Working",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+25]% Strength <vs [Mounted] units>", "Gain [2]-[5] [Gold] <upon defeating a [Military] unit> <when fighting in [Enemy land] tiles>", "This Unit gains [1] XP <upon ending a turn in a [Foreign Land] tile>", "Can move immediately once bought"],
-		"promotions": ["Drill I"],
-		"attackSound": "metalhit"
-	},
+	},
 	{
 		"name": "Minoan Archer",
 		"uniqueTo": "Minoa",
