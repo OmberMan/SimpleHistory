@@ -84,7 +84,7 @@
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
-		"uniques": ["No movement cost to pillage","No defensive terrain bonus","Rough terrain penalty","[-33]% Strength <vs cities> <when attacking>", "Earn [33]% of killed [Wounded] unit's [Strength] as [Faith]", "[-5]% Strength for enemy [Land] units in adjacent [Enemy land] tiles", "[+25]% Strength <when attacking> <when fighting in [Enemy land] tiles>"],
+		"uniques": ["No movement cost to pillage","No defensive terrain bonus","Rough terrain penalty","[-33]% Strength <vs cities> <when attacking>", "Earn [33]% of killed [Wounded] unit's [Strength] as [Faith]", "[-5]% Strength for enemy [Land] units in adjacent [Enemy Land] tiles", "[+25]% Strength <when attacking> <when fighting in [Enemy Land] tiles>"],
   "promotions": ["Charge"],
 		"hurryCostModifier": 30,
 		"attackSound": "horse"
