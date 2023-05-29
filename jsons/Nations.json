@@ -54,7 +54,7 @@
 		"innerColor": [30,70,64],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Indus Trade Network",
-		"uniques": ["[+3 Culture, +1 Production] from each Trade Route", "Gain [10]-[20] [Faith] <upon declaring friendship>", "Allied City-States provide [Science] equal to [5]% of what they produce for themselves"]
+		"uniques": ["[+3 Culture, +2 Faith, +1 Production] from each Trade Route", "Gain [10]-[20] [Faith] <upon declaring friendship>", "Allied City-States provide [Science] equal to [5]% of what they produce for themselves"]
 		"cities": ["Susa","Anshan","Awan","Hidalu","Dur Untash","Borahshi","Der","Bit Bunakki","Hamazi","Malyan",
 		"Shimashki","Zahara","Bashime","Sherihun","Marhashi","Dur-Kindattu","Yahya","Shahr-i-Sokhta","Choga Mish","Sialk",
 		"Godin Tepe","Ozbaki","Sofalin","Tal-i Ghazir", "Hissar","Dur-Luhishan","Dur-Epirmupi","Dur-Girnamme"]
@@ -113,7 +113,7 @@
 		"outerColor": [45,113,252],
 		"innerColor": [240,44,24],
 		"uniqueName": "First civilization of Europe",
-		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+2 Happiness] from all [Culture] buildings", "[+3 Culture] from all [Happiness] buildings <during a Golden Age>", "[25]% of excess happiness converted to [Science]", "[+25]% [Gold] [in all coastal cities] <when not at war>", "[+15]% [Culture] [in all coastal cities] <during a Golden Age>", "[+1 Culture, +1 Science] from each Trade Route"]
+		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+2 Happiness] from all [Culture] buildings", "[+3 Culture] from all [Happiness] buildings <during a Golden Age>", "[25]% of excess happiness converted to [Science]", "[+25]% [Gold] [in all coastal cities] <when not at war>", "[+15]% [Culture] [in all coastal cities] <during a Golden Age>", "[+1 Culture, +1 Science] from each Trade Route", "[+1] Sight <for [Water] units> <in [Coast] tiles>"]
 		"cities": ["Knossos","Phaistos","Malia","Zakros","Akotiri","Gournia","Myrtos","Agia Triadha","Ida","Khania",
 		"Sklavokambos","Tylissos","Amnisos","Nirou Khani","Vathypero","Arcanes","Agia Pelagia","Vasiliki","Kamaizi","Armenoi",
 		"Maleme","Platyvola","Kalami","Stylos","Myxorrouma","Saklouria","Apodhoulou"]
@@ -197,8 +197,8 @@
         "innerColor": [74,64,11],
 
 		"uniqueName": "Ta-Seti",
-		"uniques":["[+25]% Production when constructing [Ranged] units [in all cities with a garrison]", "Empire enters a [5] Golden Age <upon conquering a city> <with [50]% chance>",
-					"[+15]% Strength <for [Archery] units> <when attacking> <vs cities>"],
+		"uniques":["[+30]% Production when constructing [Ranged] units [in all cities with a garrison]", "Empire enters a [5] Golden Age <upon conquering a city> <with [50]% chance>",
+					"[+20]% Strength <for [Archery] units> <when attacking> <vs cities>"],
 		"cities": ["Meroe","Napata","Kerma","Nuri","Kawa","Buhen","Abu Simbel","Nabta Playa","El-Kurru","Sedeinga",
 		"Heh","Shaat","Iken","Abu Simbel","Dengeil","Miam","Tombos","Kurgus","Toshka","Soleb"]
     },
@@ -307,10 +307,10 @@
 
 		"favouredReligion": "Christianity",
 		"uniqueName": "Etruscan League",
-		"uniques": ["[-40]% [Gold] [in all cities]", 
-					"[+40]% [Gold] [in capital]", "[+1 Gold, +1 Culture, +1 Production, +1 Science] [in all cities]", "[-60]% Unhappiness from [Population] [in all non-occupied cities]",
+		"uniques": ["[-35]% [Gold] [in all cities]", 
+					"[+35]% [Gold] [in capital]", "[+1 Gold, +1 Culture, +1 Production, +1 Science] [in all cities]", "[-60]% Unhappiness from [Population] [in all non-occupied cities]",
 					"[-1 Gold, -1 Culture, -1 Production, -1 Science] [in capital]", 
-				        "[+40]% [Gold] from City-States", "[-20]% Production when constructing [{Military} {Land}] units [in all cities connected to capital] <when not at war>", "[+1 Gold, +1 Culture] from each Trade Route <when not at war>", "[+1 Gold, +1 Culture] from [Marble] tiles [in all cities]"]
+				        "[+35]% [Gold] from City-States", "[-20]% Production when constructing [{Military} {Land}] units [in all cities connected to capital] <when not at war>", "[+1 Gold, +1 Culture] from each Trade Route <when not at war>", "[+1 Gold] from [Marble] tiles [in all cities]"]
 		"cities": ["Tarchuna","Vetluna","Veia","Curtna","Aritim","Clevsin","Pupluna","Perusna","Velch","Velathri",
 		"Chaire","Velzna","Birent","Arimna","Kainua","Manthva","Muthna","Pathva","Nula","Capeva"]
     },
@@ -321,7 +321,7 @@
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"attacked": "Lacedemy Balls.",
 		"defeated": "What a fine battle! Sparta is willing to serve you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [250,128,114],
