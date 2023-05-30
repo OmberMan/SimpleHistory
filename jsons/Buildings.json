@@ -15,7 +15,7 @@
 		"uniqueTo": "Etruscans"
 		"greatPersonPoints": {"Great Merchant": 1},
 		"maintenance": 0,
-                "cost": 200,
+                "cost": 1756,
 		"hurryCostModifier": 100,
 		"uniques": ["Unsellable", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] [in this city] <during We Love The King Day>", "Excess Food converted to Production when under construction", "Cost increases by [15] per owned city", "Gain [70]-[120] [Gold]", "Gain [30]-[70] [Culture]", "Can only be built [in all cities connected to capital]", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured"],
 		"requiredTech": "Mathematics",
@@ -28,16 +28,17 @@
 		"replaces": "Stone Works"
 		"uniqueTo": "Elam"
 		"happiness": 1,
+  "production": 1,
 		"faith": 1,
 		"requiredNearbyImprovedResources": ["Marble", "Stone", "Copper"],
 		"maintenance": 1,
 		"hurryCostModifier": 20,
-		"uniques": ["[+1 Culture] from [Stone] tiles [in this city]"],
+		"uniques": ["[+1 Culture, +1 Faith] from [Stone] tiles [in this city]"],"[+1 Culture, +1 Faith] from [Marble] tiles [in this city]"],"[+1 Culture] from [Copper] tiles [in this city]"],
 		"specialistSlots": {"Artist": 1},
 		"requiredTech": "Masonry"
         },
 {
-		"name": "Sculptor Enclave",
+		"name": "Ergasterion",
 		"replaces": "Stone Works"
 		"uniqueTo": "Caria"
 		"faith": 1,
