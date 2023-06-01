@@ -310,7 +310,7 @@
 		"uniques": ["[-35]% [Gold] [in all cities]", 
 					"[+35]% [Gold] [in capital]", "[+1 Gold, +1 Culture, +1 Production, +1 Science] [in all cities]", "[-60]% Unhappiness from [Population] [in all non-occupied cities]",
 					"[-1 Gold, -1 Culture, -1 Production, -1 Science] [in capital]", 
-				        "[+35]% [Gold] from City-States", "[-20]% Production when constructing [{Military} {Land}] units [in all cities connected to capital] <when not at war>", "[+1 Gold, +1 Culture] from each Trade Route <when not at war>", "[+1 Gold] from [Marble] tiles [in all cities]"]
+				        "[+35]% [Gold] from City-States", "[-20]% Production when constructing [{Military} {Land}] units [in all cities connected to capital] <when not at war>", "[+1 Gold, +1 Culture] from each Trade Route <when not at war>"]
 		"cities": ["Tarchuna","Vetluna","Veia","Curtna","Aritim","Clevsin","Pupluna","Perusna","Velch","Velathri",
 		"Chaire","Velzna","Birent","Arimna","Kainua","Manthva","Muthna","Pathva","Nula","Capeva"]
     },
