@@ -27,7 +27,7 @@
                 "requiredResource": "Horses",
                 "uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
                 "promotions": ["Cover I", "Cover II"]
-		"attackSound": "throw"
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Elamite Bowman",
@@ -140,7 +140,7 @@
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 12,
-		"cost": 70,
+		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
