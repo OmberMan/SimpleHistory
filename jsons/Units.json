@@ -73,6 +73,20 @@
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
+{
+		"name": "Galea",
+		"uniqueTo": "Minoa",
+		"replaces": "Trireme"
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 7,
+		"cost": 25,
+		"requiredTech": "Sailing",
+  "promotions": ["Supply"]
+  "uniques": ["[+1] Sight <in [Coast] tiles]>", "May withdraw before melee ([40]%)"],
+		"upgradesTo": "Caravel",
+		"attackSound": "nonmetalhit"
+	},
 	{
 		"name": "Charging Chariot",
 		"uniqueTo": "Mitanni",
