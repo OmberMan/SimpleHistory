@@ -15,7 +15,7 @@
 		"uniqueTo": "Etruscans"
 		"greatPersonPoints": {"Great Merchant": 1},
 		"maintenance": 0,
-  "cost": 170,
+  "cost": 1è0,
 		"hurryCostModifier": 100,
 		"uniques": ["Unsellable", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] [in this city] <during We Love The King Day>", "Excess Food converted to Production when under construction", "Cost increases by [15] per owned city", "Gain [35]-[215] [Gold]", "Gain [70]-[120] [Culture]", "Can only be built [in all cities connected to capital]", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured"],
 		"requiredTech": "Mathematics",
@@ -67,10 +67,9 @@
 		"replaces": "Aqueduct",
 		"maintenance": 1,
 		"cost": 125,
-                "happiness": 2,
-                "culture": 1,
+  "happiness": 2,
 		"hurryCostModifier": 20,
-		"uniques": ["[65]% Food is carried over after population increases [in this city]"],
+		"uniques": ["[60]% Food is carried over after population increases [in this city]"],
 		"requiredTech": "Construction"
 	},
 	{
@@ -102,7 +101,7 @@
 		"maintenance": 1,
 		"food": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["Must be next to [Mountain]","[+1 Food, +1 Production] from [Mountain] tiles [in this city]", "[+1 Gold, +1 Production] from [Wine] tiles [in this city]", "[+10]% [Food] [in this city]"],
+		"uniques": ["Must have an owned [Mountain] within [2] tiles","[+1 Food, +1 Production] from [Mountain] tiles [in this city]", "[+1 Gold, +1 Production] from [Wine] tiles [in this city]", "[+10]% [Food] [in this city]"],
 		"requiredTech": "Construction"
 	},
 	{
