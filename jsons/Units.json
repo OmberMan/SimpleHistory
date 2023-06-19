@@ -55,7 +55,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
-  "uniques": ["[+15]% Strength <vs [Sword] units>", "[-15]% Strength <when defending>", "[-25]% XP gained from combat", "[+15]% Strength <when attacking>"],
+  "uniques": ["[+15]% Strength <vs [Sword] units>", "[-15]% Strength <when defending>", "[-15]% XP gained from combat", "[+15]% Strength <when attacking>"],
 	},
 	{
 		"name": "Minoan Archer",
@@ -81,9 +81,9 @@
 		"movement": 5,
 		"strength": 7,
 		"cost": 25,
-		"requiredTech": "Sailing",
+		"requiredTech": "Pottery",
   "promotions": ["Supply"]
-  "uniques": ["[+1] Sight <in [Coast] tiles>]", "May withdraw before melee ([40]%)"],
+  "uniques": ["[+1] Sight <in [Coast] tiles>", "May withdraw before melee ([40]%)"],
 		"upgradesTo": "Caravel",
 		"attackSound": "nonmetalhit"
 	},
@@ -128,7 +128,7 @@
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"promotions": ["Accuracy I","Barrage I"],
-                "uniqued": ["[+15]% Strength <vs cities> <when attacking>", "Double movement in [River]"],
+  "uniques": ["[+15]% Strength <vs cities> <when attacking>", "Double movement in [River]"],
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow",
 	},
