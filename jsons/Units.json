@@ -50,12 +50,12 @@
 		"uniqueTo": "Mitanni",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 12,
+		"strength": 11,
 		"cost": 48,
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
-  "uniques": ["[+25]% Strength <vs [Sword] units>", "[-15]% Strength <when defending>", "[-25]% XP gained from combat", "[+15]% Strength <when attacking>"],
+  "uniques": ["[+15]% Strength <vs [Sword] units>", "[-15]% Strength <when defending>", "[-25]% XP gained from combat", "[+15]% Strength <when attacking>"],
 	},
 	{
 		"name": "Minoan Archer",
@@ -83,7 +83,7 @@
 		"cost": 25,
 		"requiredTech": "Sailing",
   "promotions": ["Supply"]
-  "uniques": ["[+1] Sight <in [Coast] tiles]>", "May withdraw before melee ([40]%)"],
+  "uniques": ["[+1] Sight <in [Coast] tiles>]", "May withdraw before melee ([40]%)"],
 		"upgradesTo": "Caravel",
 		"attackSound": "nonmetalhit"
 	},
@@ -93,8 +93,8 @@
 		"replaces": "Horseman"
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 12,
-		"cost": 64,
+		"strength": 11,
+		"cost": 60,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
@@ -171,7 +171,7 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 13,
-		"cost": 85,
+		"cost": 80,
 		"requiredTech": "Mathematics",
 		"requiredResource": "Marble",
 		"upgradesTo": "Longswordsman",
