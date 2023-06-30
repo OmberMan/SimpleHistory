@@ -106,14 +106,14 @@
 		"introduction": "I am Minos of Crete, bow down for you are mortals.",
 
 		"neutralHello": "Hello, got your gift basket?.",
-		"hateHello": "What do YOU want?",
+		"hateHello": "What do YH-UOW waaant?",
 
 		"tradeRequest": "Greetings mortal, we can have goods to exchange.",
 
 		"outerColor": [45,113,252],
 		"innerColor": [240,44,24],
 		"uniqueName": "First civilization of Europe",
-		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+1 Culture] from all [Happiness] buildings <during a Golden Age>", "[20]% of excess happiness converted to [Science]", "[+20]% [Gold] [in all coastal cities] <during a Golden Age>", "[+20]% [Culture] [in all coastal cities] <when not at war>", "[+1 Culture, +1 Science] from each Trade Route"]
+		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+1 Culture] from all [Happiness] buildings <during a Golden Age>", "[20]% of excess happiness converted to [Science]", "[+20]% [Gold] [in all coastal cities] <during a Golden Age>", "[+20]% [Culture] [in all coastal cities] <when not at war>"]
 		"cities": ["Knossos","Phaistos","Malia","Zakros","Akotiri","Gournia","Myrtos","Agia Triadha","Ida","Khania",
 		"Sklavokambos","Tylissos","Amnisos","Nirou Khani","Vathypero","Arcanes","Agia Pelagia","Vasiliki","Kamaizi","Armenoi",
 		"Maleme","Platyvola","Kalami","Stylos","Myxorrouma","Saklouria","Apodhoulou"]
@@ -248,14 +248,14 @@
 		"introduction": "I am Cyaxares, king of the Medians.",
 		"neutralHello": "Hey.",
 		"hateHello": "Fuck you all my homies hate you your capital will be razed at temperatures upwards of 1400°C.",
-		"tradeRequest": "Friend, would you accept this agreement?",
+		"tradeRequest": "Friend you accept this agreement.",
 
         "outerColor": [49,161,35],
-        "innerColor": [68,196,215],
+        "innerColor": [148,66,215],
 
 		"favouredReligion": "Zoroastrianism",
 		"uniqueName": "Praise Zurvan",
-		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-33]% maintenance <for [Mounted] units>", "[+2 Science, +1 Culture, 2 Gold] from each Trade Route", "[8] units cost no maintenance <while the empire is happy>"],
+		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-33]% maintenance <for [Mounted] units>", "[+2 Science, +1 Culture, +2 Gold] from each Trade Route", "[8] units cost no maintenance <while the empire is happy>"],
 		"cities": ["Hagmatana","Khalmanu","Erbil","Tuspa","Raga","Qumis","Vishpauzati","Tusha","Mouru","Termez",
 		"Zariaspa","Zranka","Kirkuk","Amida","Teishebani"]
     },
