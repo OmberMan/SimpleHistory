@@ -54,7 +54,7 @@
 		"innerColor": [30,70,64],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Indus Trade Network",
-		"uniques": ["[+3 Culture, +2 Faith, +1 Production] from each Trade Route", "Gain [10]-[20] [Faith] <upon declaring friendship>", "Allied City-States provide [Science] equal to [5]% of what they produce for themselves"]
+		"uniques": ["[+2 Culture, +3 Faith, +1 Production] from each Trade Route", "Gain [20]-[40] [Faith] <upon declaring friendship>", "Allied City-States provide [Science] equal to [15]% of what they produce for themselves"]
 		"cities": ["Susa","Anshan","Awan","Hidalu","Dur Untash","Borahshi","Der","Bit Bunakki","Hamazi","Malyan",
 		"Shimashki","Zahara","Bashime","Sherihun","Marhashi","Dur-Kindattu","Yahya","Shahr-i-Sokhta","Choga Mish","Sialk",
 		"Godin Tepe","Ozbaki","Sofalin","Tal-i Ghazir", "Hissar","Dur-Luhishan","Dur-Epirmupi","Dur-Girnamme"]
@@ -255,7 +255,7 @@
 
 		"favouredReligion": "Zoroastrianism",
 		"uniqueName": "Praise Zurvan",
-		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-33]% maintenance costs <for [Mounted] units>", "[+3 Science, +2 Culture, 1 Gold] from each Trade Route", "[8] units cost no maintenance <while the empire is happy>"],
+		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-33]% maintenance <for [Mounted] units>", "[+2 Science, +1 Culture, 2 Gold] from each Trade Route", "[8] units cost no maintenance <while the empire is happy>"],
 		"cities": ["Hagmatana","Khalmanu","Erbil","Tuspa","Raga","Qumis","Vishpauzati","Tusha","Mouru","Termez",
 		"Zariaspa","Zranka","Kirkuk","Amida","Teishebani"]
     },
@@ -314,6 +314,100 @@
 		"cities": ["Tarchuna","Vetluna","Veia","Curtna","Aritim","Clevsin","Pupluna","Perusna","Velch","Velathri",
 		"Chaire","Velzna","Birent","Arimna","Kainua","Manthva","Muthna","Pathva","Nula","Capeva"]
     },
+{ 
+                 "name": "Athens", 
+                 "leaderName": "Pericles", 
+                 "adjective": ["Attic"], 
+                 "startBias": ["Coast"], 
+                 "preferredVictoryType": "Diplomatic", 
+                 "style": "Mediterranean", 
+  
+                 "startIntroPart1": "", 
+                 "startIntroPart2": "", 
+  
+                 "declaringWar": "And thus always to tyrants.", 
+                 "attacked": "Mmmm, very unwise.", 
+                 "defeated": "Beautiful Athens... you've plunged humanity into a dark age... \nBad End.", 
+                 "introduction": "I greet you on behalf of Athens as her elected representive; behold, the bastion of enlightenment and mother city of the Ionian Greeks.", 
+  
+                 "neutralHello": "Yes..?", 
+                 "hateHello": "Come to give up your throne, tyrant?", 
+  
+                 "tradeRequest": "Trust us, this agreement will benefit all of us the most, I'm sure I don't have to bore you with the specifics.", 
+  
+                 "outerColor": [250, 250, 254], 
+                 "innerColor": [40, 183, 245], 
+                 "favoredReligion": "Christianity", 
+                 "uniqueName": "Attic Hegemony", 
+                 "uniques": ["Unhappiness from number of Cities doubled", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+4 Science, +3 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns <after adopting [Meritocracy]>"], 
+                 "uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+4 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 15 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.", 
+                 "cities": ["Athens", "Miletos","Phocaea", "Samos", 
+                         "Chalkis","Naxos", "Ephesus", "Chios", "Delos", "Thasos", "Abydos", "Olynthos", "Serfios", "Smyrna", "Imbros", 
+                         "Patras","Lamia","Nafplion","Apolyton", "Troizen"], 
+         "spyNames": ["Jeson", "Hiline", "Aloix", "Platon", "Kassandros", "Andros", "Desdemona", "Antheas", "Aeneas", "Loindiraos", "Dada da du du da do do mo ne bam ba bah"] 
+     }, 
+ { 
+                 "name": "Sparta", 
+                 "leaderName": "Leonidas", 
+                 "adjective": ["Doric"], 
+                 "startBias": ["Plains"], 
+                 "preferredVictoryType": "Domination", 
+                 "style": "Mediterranean", 
+  
+                 "startIntroPart1": "", 
+                 "startIntroPart2": "", 
+  
+                 "declaringWar": "Laconia's fields require fresh helots, and her markets healthy slaves! \nThe weak should fear the strong; now natural order will be enforced.", 
+                 "attacked": "Sparta shall never submit to foreign cravens! Apollo smiles upon us, barbarian. You will not be walking away from this one.", 
+                 "defeated": "No... our society was infallible, indestructable... at least we will die with it like true Spartans.", 
+                 "introduction": "You know where this is.", 
+  
+                 "neutralHello": "What, barbarian? Speak.", 
+                 "hateHello": "I would have settled our differences on the fields of battle, were we not currently preoccupied declaring war on our peasant class. \nWhat you may call madness, we call Sparda.", 
+  
+                 "tradeRequest": "This is our offer. \nWe shall await your reply by the edge of a comically large hole.", 
+  
+                 "outerColor": [185, 55, 30], 
+                 "innerColor": [205, 200, 25], 
+                 "favoredReligion": "Shinto", 
+                 "uniqueName": "Kick the Helot", 
+                 "uniques": ["Unhappiness from number of Cities doubled","Free [Melee] appears <upon constructing [Production] [in capital]> <with [33]% chance>", "[+1 Production, +1 Culture] from all [Barracks] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Melee] appears <upon declaring war with a major Civilization>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"], 
+                 "uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city, and a free melee unit when declaring war. \nAll Infantry units receive the Agoge Promotion \nCannot build settlers.", 
+                 "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconium"], 
+                 "spyNames": ["Schnider", "The Rolling Corpse of Ayn Rand"] 
+     }, 
+         { 
+                 "name": "Thebes", 
+                 "leaderName": "Epaminondas", 
+                 "adjective": ["Aeolic"], 
+                 "startBias": ["Grassland"], 
+                 "preferredVictoryType": "Diplomatic", 
+                 "style": "Mediterranean", 
+  
+                 "startIntroPart1": "", 
+                 "startIntroPart2": "", 
+  
+                 "declaringWar": "I think it's best we deal with you now, lest you become a bigger issue.", 
+                 "attacked": "...That was really stupid.", 
+                 "defeated": "I leave behind no sons, and I do not fear death. But even the most blessed of men are one day doomed to watch their mothers die before them. \nAs Thebes burns before me I must ask, what blessing are my own victories if they could not preseve her legacy?.", 
+                 "introduction": "Greetings. I have been appointed to speak for Thebes, Boeotia, and all its people. May our relationship be a prosperous one.", 
+  
+                 "neutralHello": "Something you wish to tell me?", 
+                 "hateHello": "Now, we shouldn't let old grudges distract us from our mutual intrests. \nNothing washes down bad blood like Theban wine.", 
+  
+                 "tradeRequest": "I think this arrangement is in both our interests, eh?", 
+  
+                 "outerColor": [182, 151, 37], 
+                 "innerColor": [52, 17, 114], 
+                 "favoredReligion": "Zoroastrianism", 
+                 "uniqueName": "Boeotian League", 
+                 "uniques": ["Unhappiness from number of Cities doubled", "Allied City-States provide [Culture] equal to [+25]% of what they produce for themselves <when not at war>", "Allied City-States provide [Gold] equal to [+25]% of what they produce for themselves <when not at war>", "Allied City-States provide [Production] equal to [50]% of what they produce for themselves <when at war>", "Militaristic City-States grant units [5] times as fast when you are at war with a common nation", "Gain [50] Influence with a [Great General] gift to a City-State", "[Great General] is earned [50]% faster", "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns. <after adopting [Patronage]>", "Empire enters a [3]-turn Golden Age <upon gaining a [Great General] unit>", "[+2 Faith] per [3] social policies adopted"], 
+                 "uniqueText": "City state allies grant 1/4th of their [Gold] and [Culture] output when at peace, and half their [Production] output when at war.\n Great Generals automatically start at 3 turn Golden Age upon spawning, are earned at twice the rate and earn 50 influence when gifted. \nCan annex allied CS with [Gold] after 10 turns of alliance have passed and Patronage is adopted (TBR). Every third policy adopted yields +2 [Faith] per turn.", 
+                 "cities": ["Thebai", "Plataea","Coronea", "Orchomenus", 
+                         "Thespiae","Chaeronea", "Tanagra", "Chalcis", "Erythrae", "Alalcomenae", "Medeon", "Larissa", "Minyae", "Oedipae", "Copae", "Enodae", 
+                         "Abremes","Makatoun","Myltilene","Itonis", "Lebadea"], 
+         "spyNames": ["Jason", "Narcissus", "Heracles", "Oedipus", "Niobe", "Andros", "Sappho", "Antheas", "Soter", "Loindiraos", "Enodia"] 
+     },
 // City states
 	{
 		"name": "Lacedaemon",
@@ -321,7 +415,7 @@
 		"cityStateType": "Militaristic",
 
 		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Lacedemy Balls.",
+		"attacked": "Lacedem my balls.",
 		"defeated": "What a fine battle! Sparta is willing to serve you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [250,128,114],
