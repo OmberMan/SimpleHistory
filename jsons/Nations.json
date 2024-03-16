@@ -24,7 +24,7 @@
 		"innerColor": [226,169,47],
 		"favoredReligion": "Christianity",
 		"uniqueName": "King of the Universe",
-		"uniques": ["[+1 Happiness, +2 fAITH, +2 Science, +1 Production] [in annexed cities]", "[+15]% Strength <vs cities>". "[+15]% [Culture] [in annexed cities]"Culture ],
+		"uniques": ["[+1 Happiness, +2 Faith, +2 Science, +1 Production] [in annexed cities]", "[+15]% Strength <vs cities>", "[+15]% [Culture] [in annexed cities]"],
 		"cities": ["Akkad","Sipar","Eshnunna","Babili","Bursippa","Tell Brak","Tell Leilan","Marad","Azupiranu","Ur",
 		"Eridu","Lagash","Girsu","Pashime","Susia","Tutub","Gasur","Ashur","Mari","Tuttul",
 		"Nagar","Ninive","Mardaman","Shekhna","Urkish","Nabada","Nuzi","Nimrud","Wassukani","Haran"]
