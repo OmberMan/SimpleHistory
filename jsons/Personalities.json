@@ -1,101 +1,127 @@
 [
-
   {
-                "name": "Croesus",
+                "name": "Kindattu",
                 "preferredVictoryType": "Diplomatic",
-                "food": 5,
-                "production": 7,
-                "gold": 10,
+                "food": 6,
+                "production": 6,
+                "gold": 6,
                 "culture": 4,
-                "science": 6,
-                "faith": 4,
-                "military": 3,
-                "warMongering": 5,
-"priorities": {
-    "Commerce": 30,
-    "Patronage": 10
-}
-        },
-{
-                "name": "Midas",
-                "preferredVictoryType": "Neutral",
-                "food": 4,
-                "production": 4,
-                "gold": 9,
-                "culture": 7,
                 "science": 5,
                 "faith": 7,
-                "military": 4,
-                "warMongering": 5,
+                "military": 5,
+                "warMongering": 6,
 "priorities": {
+    "Liberty": 10,
     "Tradition": 10,
-    "Liberty": 20,
-    "Commerce": 20,
-    "Exploration": 10
+    "Piety": 30,
+    "Commerce": 10,
+    "Patronage": 20,
+    "Aesthetics": 10
 }
         },
 {
-                "name": "Mithridates",
-                "preferredVictoryType": "Diplomatic",
-                "food": 5,
-                "production": 5,
+                "name": "Parshatatar",
+                "preferredVictoryType": "Domination",
+                "food": 4,
+                "production": 4,
                 "gold": 7,
-                "culture": 7,
-                "science": 6,
-                "faith": 3,
-                "military": 8,
+                "culture": 3,
+                "science": 4,
+                "faith": 2,
+                "military": 9,
                 "warMongering": 9,
 "priorities": {
-    "Commerce": 10,
-    "Patronage": 10,
-    "Aesthetics": 10,
-    "Rationalism": 5
+    "Honor": 20,
+    "Patronage": 20
+}
+        },
+{
+                "name": "Minos",
+                "preferredVictoryType": "Cultural",
+                "food": 4,
+                "production": 4,
+                "gold": 7,
+                "culture": 8,
+                "science": 7,
+                "faith": 6,
+                "military": 2,
+                "warMongering": 2,
+"priorities": {
+    "Commerce": 40,
+    "Patronage": 30,
+    "Aesthetics": 40,
+    "Exploration": 60,
+    "Rationalism": 10,
+    "Piety": 10,
+    "Tradition": 10
 }
         },
         {
-                "name": "Nicomedes",
+                "name": "Nubia",
                 "preferredVictoryType": "Neutral",
-                "food": 4,
+                "food": 6,
                 "production": 5,
                 "gold": 7,
-                "culture": 6,
-                "science": 5,
-                "faith": 4,
-                "military": 6,
-                "warMongering": 4,
+                "culture": 5,
+                "science": 4,
+                "faith": 7,
+                "military": 7,
+                "warMongering": 7,
 "priorities": {
-    "Liberty": 10,
-    "Honor": 10,
-    "Patronage": 10
-    "Exploration": 10
+    "Piety": 20,
+    "Honor": 20,
+    "Commerce": 10
 }
         },
         {
-                "name": "Mausolus",
-                "preferredVictoryType": "Neutral",
-                "food": 3,
-                "production": 6,
-                "gold": 5,
-                "culture": 2,
-                "science": 4,
-                "faith": 6,
-                "military": 6,
-                "warMongering": 6,
-        },
-        {
-                "name": "Isaurian",
+                "name": "Argishti",
                 "preferredVictoryType": "Neutral",
                 "food": 5,
                 "production": 6,
-                "gold": 3,
-                "culture": 4,
-                "science": 2,
-                "faith": 3,
-                "military": 7,
-                "warMongering": 8,
-"priorities": {
-    "Tradition": 30,
-    "Honor": 20
-}
+                "gold": 6,
+                "culture": 2,
+                "science": 4,
+                "faith": 5,
+                "military": 6,
+                "warMongering": 5,
         },
-]
+"priorities": {
+    "Patronage": 20,
+    "Tradition": 10,
+    "Autocracy": 10
+}
+        {
+                "name": "Cyaxares",
+                "preferredVictoryType": "Domination",
+                "food": 4,
+                "production": 4,
+                "gold": 5,
+                "culture": 4,
+                "science": 6,
+                "faith": 6,
+                "military": 6,
+                "warMongering": 7,
+"priorities": {
+    "Patronage": 10,
+    "Honor": 10,
+    "Rationalism": 10
+},
+{
+                "name": "Tyrrhenus",
+                "preferredVictoryType": "Diplomatic",
+                "food": 5,
+                "production": 4,
+                "gold": 8,
+                "culture": 7,
+                "science": 6,
+                "faith": 5,
+                "military": 2,
+                "warMongering": 3,
+"priorities": {
+    "Patronage": 20,
+    "Exploration": 10,
+    "Commerce": 20,
+    "Aesthetics": 10
+}
+        }
+     ]
