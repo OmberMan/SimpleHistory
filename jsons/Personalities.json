@@ -84,12 +84,12 @@
                 "faith": 5,
                 "military": 6,
                 "warMongering": 5,
-        },
-"priorities": {
+          "priorities": {
     "Patronage": 20,
     "Tradition": 10,
     "Autocracy": 10
 }
+        },
         {
                 "name": "Cyaxares",
                 "preferredVictoryType": "Domination",
