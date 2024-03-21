@@ -33,6 +33,7 @@
 		"name": "Elam",
 		"leaderName": "Kindattu",
 		"adjective": ["Elamite"],
+		"personality": "Kindattu",
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Neutral",
                 "style": "Mesopotamian",
@@ -64,6 +65,7 @@
 		"leaderName": "Parshatatar",
 		"adjective": ["Mittani"],
 		"startBias": ["Hill"],
+		"personality": "Parshatatar",
 		"preferredVictoryType": "Domination",
   "style": "Mesopotamian",
 
@@ -94,6 +96,7 @@
 		"leaderName": "Minos",
 		"adjective": ["Minoan"],
 		"startBias": ["Coast"],
+		"personality": "Minos",
                	"preferredVictoryType": "Cultural",
                 "style": "Mediterranean", 
 
@@ -178,6 +181,7 @@
 		"name": "Nubia",
 		"leaderName": "Piye",
 		"adjective": ["Nubian"],
+		"personality": "Piye",
 		"startBias": ["Desert","River"],
                 "preferredVictoryType": "Domination",
                 "style": "African",
@@ -207,6 +211,7 @@
 		"leaderName": "Argishti I",
 		"adjective": ["Urartian"],
 		"startBias": ["Hill"],
+		"personality": "Argishti",
                 "preferredVictoryType": "Neutral",
                 "style": "Mesopotamian",
 
@@ -235,6 +240,7 @@
 		"name": "Medes",
 		"leaderName": "Cyaxares",
 		"adjective": ["Median"], 
+		"personality": "Cyaxares",
                 "preferredVictoryType": "Domination",
                 "style": "Mesopotamian",
                 "startBias": ["Hill"],
@@ -264,7 +270,8 @@
 		"name": "Etruscans",
 		"leaderName": "Tyrrhenus",
 		"adjective": ["Eturian"],
-                "startBias": ["Grassland"],
+                "startBias": ["Grassland", "Coast"],
+		"personality": "Tyrrhenus",
 		"preferredVictoryType": "Diplomatic",
                 "style": "Mediterranean",
 
