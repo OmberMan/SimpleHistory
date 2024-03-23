@@ -126,9 +126,13 @@
 		"hurryCostModifier": 30,
 		"requiredTech": "Calendar",
 		"uniques": ["[-7]% Unhappiness from [Population] [in this city]"]
-	},
+	}
 ]
-]
+
+
+
+
+
 //{
 //		"name": "Monumental Complex",
 //		"uniqueTo": "Etruscans",
