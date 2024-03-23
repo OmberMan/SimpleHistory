@@ -10,7 +10,7 @@
 		"uniques": ["New [Military] units start with [20] Experience [in this city]", "[+5]% Production when constructing [Military] units [in this city]"],
 		"requiredTech": "Bronze Working"
 	},
-	{
+/*	{
 		"name": "Fanu",
 		"uniqueTo": "Etruscans"
 		"greatPersonPoints": {"Great Merchant": 1},
@@ -22,7 +22,7 @@
 		"civilopediaText": [
 			{"text": "Somewhere across the sea of time, a love immortal such as mine, will come to me, oh who is she. \nImmortal she, eternally."},
         ]
-	},
+	},*/
 	{
 		"name": "Statue Maker",
 		"replaces": "Stone Works"
@@ -116,7 +116,7 @@
 		"requiredTech": "Calendar",
 		"uniques": ["[-7]% Unhappiness from [Population] [in this city]"]
 	},
-	{
+/*	{
 		"name": "Monumental Complex",
 		"uniqueTo": "Etruscans",
 		"replaces": "Monument",
@@ -126,5 +126,5 @@
 		"hurryCostModifier": 40,
 		"maintenance": 2,
 		"uniques": ["[+1 Happiness] [in this city] <after founding a Pantheon>"]
-	},
+	},*/
 ]
