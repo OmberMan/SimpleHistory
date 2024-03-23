@@ -9,31 +9,7 @@
 		"cost": 90,
 		"uniques": ["New [Military] units start with [20] Experience [in this city]", "[+5]% Production when constructing [Military] units [in this city]"],
 		"requiredTech": "Bronze Working"
-	},
-//{
-	//	"name": "Fanu",
-//		"uniqueTo": "Etruscans"
-//		"greatPersonPoints": {"Great Merchant": 1},
-//		"maintenance": 0,
-//  "cost": 100,
-//		"hurryCostModifier": 100,
-	//	"uniques": ["Unsellable", "[+1 Food, +1 
-//Culture, +1 Faith, +1 Happiness] [in this city] 
-//<during We Love The King Day>", "Excess Food 
-//converted to Production when under 
-//construction", "Cost increases by [15] per 
-//owned city", "Gain [35]-[215] [Gold]", "Gain 
-//[70]-[120] [Culture]", "Can only be built [in 
-//all cities connected to capital]", "Destroyed 
-//when the city is captured", "Doubles Gold given 
-//to enemy if city is captured"],
-//"requiredTech": "Mathematics",
-//		"civilopediaText": [
-		//	{"text": "Somewhere across the sea of time, 
-//a love immortal such as mine, will come to me, 
-/)oh who is she. \nImmortal she, eternally."},
-      //  ]
-//	},
+	},
 	{
 		"name": "Statue Maker",
 		"replaces": "Stone Works"
@@ -132,17 +108,4 @@
 
 
 
-
-//{
-//		"name": "Monumental Complex",
-//		"uniqueTo": "Etruscans",
-//		"replaces": "Monument",
-//"culture":3,             
-//"greatPersonPoints": {"Great Artist": 1},
-//		"cost": 40,
-//		"hurryCostModifier": 40,
-//		"maintenance": 2,
-//		"uniques": ["[+1 Happiness] [in this city] 
-// <after founding a Pantheon>"]
-//	}
 
