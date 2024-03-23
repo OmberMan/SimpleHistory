@@ -163,23 +163,5 @@
                 "promotions": ["Blitz"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
-	},
-	{
-		"name": "Italic Infantry",
-		"uniqueTo": "Etruscans"
-		"replaces": "Swordsman",
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 13,
-		"cost": 80,
-		"requiredTech": "Mathematics",
-		"requiredResource": "Marble",
-		"upgradesTo": "Longswordsman",
-                "uniques": ["[+10]% Strength <in [Friendly Land] tiles>", "[-20]% Strength <when attacking>", "[+20]% Strength <when defending>", "[+20]% Strength <when above [49] HP> <when defending> <vs [Ranged] units>", "[+10]% Strength <within [2] tiles of a [City center]>"],
-		"hurryCostModifier": 25,
-		"attackSound": "nonmetalhit",
-		"civilopediaText": [
-			{"text": "A giant so big that you can only see their legs. Or at least what is told across the lands."},
-        ]
-	},
+	},
 ]
