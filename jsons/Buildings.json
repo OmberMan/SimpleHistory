@@ -10,7 +10,7 @@
 		"uniques": ["New [Military] units start with [20] Experience [in this city]", "[+5]% Production when constructing [Military] units [in this city]"],
 		"requiredTech": "Bronze Working"
 	},
-/*	{
+/*{
 		"name": "Fanu",
 		"uniqueTo": "Etruscans"
 		"greatPersonPoints": {"Great Merchant": 1},
