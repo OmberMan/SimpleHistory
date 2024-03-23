@@ -127,6 +127,7 @@
 		"requiredTech": "Calendar",
 		"uniques": ["[-7]% Unhappiness from [Population] [in this city]"]
 	},
+]
 //{
 //		"name": "Monumental Complex",
 //		"uniqueTo": "Etruscans",
@@ -139,4 +140,4 @@
 //		"uniques": ["[+1 Happiness] [in this city] 
 // <after founding a Pantheon>"]
 //	}
-]
+
