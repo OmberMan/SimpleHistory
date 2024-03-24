@@ -248,20 +248,21 @@
         "startIntroPart1": "",
         "startIntroPart2": "",
 
-        "declaringWar": "Such a fool you are, you shall be vanquished.",
-		"attacked": "How dare you.",
-		"defeated": "This may be your first conquest, but our legacy is engrained today.",
+        "declaringWar": "Such a fool you are, you shall be dealt with.",
+		"attacked": "How dare you. \nI can't believe this. \nWho could have forseen this occuring. \nA mystery",
+		"defeated": "This may be your first conquest, but our legacy is definitely engrained today.",
 		"introduction": "I am Cyaxares, king of the Medians.",
 		"neutralHello": "Hey.",
 		"hateHello": "Fuck you all my homies hate you your capital will be razed at temperatures upwards of 1400°C.",
 		"tradeRequest": "Friend you accept this agreement yes you do.",
 
         "outerColor": [49,161,35],
-        "innerColor": [148,66,215],
+        "innerColor": [238,235,241],
 
 		"favouredReligion": "Zoroastrianism",
 		"uniqueName": "Praise Zurvan",
-		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-33]% maintenance <for [Mounted] units>", "[+1 Science, +1 Culture, +1 Gold] from each Trade Route", "[8] units cost no maintenance <while the empire is happy>"],
+		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-33]% maintenance <for [Mounted] units>", "[+1 Science, +1 Culture] from each Trade Route", "[8] units cost no maintenance <while the empire is happy>", "Improves movement speed on roads", "[-1 Happiness] from all [Courthouse] buildings", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [1] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [2] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [3] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [4] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [5] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [6] of [in all cities connected to capital] cities>"
+"[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [7] of [in all cities connected to capital] cities>"
 		"cities": ["Hagmatana","Khalmanu","Erbil","Tuspa","Raga","Qumis","Vishpauzati","Tusha","Mouru","Termez",
 		"Zariaspa","Zranka","Kirkuk","Amida","Teishebani"]
     },
