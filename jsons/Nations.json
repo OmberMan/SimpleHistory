@@ -218,7 +218,7 @@
         "startIntroPart1": "",
         "startIntroPart2": "",
 
-        "declaringWar": "The mountains of Urartu will collapse to your filthy plains.",
+        "declaringWar": "The mountains of Urartu will collapse into to on top of your filthy plains.",
 		"attacked": "How dare you underestimate us.",
 		"defeated": "The mountains are our monuments, indestructible forever.",
 		"introduction": "I am Argishti, king of Urartu, I welcome you to our numerous mountains.",
@@ -262,7 +262,7 @@
 		"favouredReligion": "Zoroastrianism",
 		"uniqueName": "Praise Zurvan",
 		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-33]% maintenance <for [Mounted] units>", "[+1 Science, +1 Culture] from each Trade Route", "[8] units cost no maintenance <while the empire is happy>", "Improves movement speed on roads", "[-1 Happiness] from all [Courthouse] buildings", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [1] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [2] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [3] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [4] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [5] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [6] of [in all cities connected to capital] cities>"
-"[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [7] of [in all cities connected to capital] cities>"
+"[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [7] of [in all cities connected to capital] cities>"],
 		"cities": ["Hagmatana","Khalmanu","Erbil","Tuspa","Raga","Qumis","Vishpauzati","Tusha","Mouru","Termez",
 		"Zariaspa","Zranka","Kirkuk","Amida","Teishebani"]
     },
