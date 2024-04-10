@@ -55,7 +55,7 @@
 		"innerColor": [20,70,54],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Indus Trade Network",
-		"uniques": ["[+1 Production, +1 Food] [in all cities connected to capital]", "[+1 Culture, +1 Faith, +1 Science] [non-[in all cities connected to capital]]", "[+1 Faith, +1 Science, +1 Culture] [in capital]", "[+1 Faith] from each Trade Route", "Gain [20]-[80] [Faith] <upon declaring friendship>", "Gain [10]-[30] [Science] <upon declaring friendship>" "Allied City-States provide [Science] equal to [15]% of what they produce for themselves", "[+100]% resources gifted by City-States" ]
+		"uniques": ["[+1 Production, +1 Food] [in all cities connected to capital]", "[+1 Culture, +1 Faith, +1 Science] [non-[in all cities connected to capital]]", "[+1 Faith, +1 Science, +1 Culture] [in capital]", "[+1 Faith] from each Trade Route", "Gain [20]-[80] [Faith] <upon declaring friendship>", "Gain [10]-[30] [Science] <upon declaring friendship>", "Allied City-States provide [Science] equal to [15]% of what they produce for themselves", "[+100]% resources gifted by City-States" ]
 		"cities": ["Susa","Anshan","Awan","Hidalu","Dur Untash","Borahshi","Der","Bit Bunakki","Hamazi","Malyan",
 		"Shimashki","Zahara","Bashime","Sherihun","Marhashi","Dur-Kindattu","Yahya","Shahr-i-Sokhta","Choga Mish","Sialk",
 		"Godin Tepe","Ozbaki","Sofalin","Tal-i Ghazir", "Hissar","Dur-Luhishan","Dur-Epirmupi","Dur-Girnamme"]
