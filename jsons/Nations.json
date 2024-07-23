@@ -41,21 +41,21 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "A barbarian you are, your plains will be piled up by the bodies of your soldiers",
-		"attacked": "Such foolish decision. I have destroyed dynasties, and you shall be one of them.",
-		"defeated": "Woe to you.",
+		"declaringWar": "A barbarian you are, your plains will be piled up by the bodies of your soldiers.",
+		"attacked": "Such foolish decision. For we, the penultimate Bronze Age hipsters, have destroyed dynasties, and you shall be one of them.",
+		"defeated": "Woe to you. \n...a job in what now?",
 		"introduction": "Welcome, foreign delegate of heaven. I am Kindattu of Elam.",
 
 		"neutralHello": "We're the Elamites.",
 		"hateHello": "Kill Yourself . \n∆  ∆ \nNow",
 
-		"tradeRequest": "Friendo, we can exchange goods if you will do as much with us at this moment.",
+		"tradeRequest": "Friendo, we can exchange essential goods if you will do as much with us at this moment.",
 
 		"outerColor": [233,176,157],
 		"innerColor": [90,20,54],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Indus Trade Network",
-		"uniques": ["[+1 Production, +1 Food] [in all cities connected to capital]", "[+1 Culture, +1 Faith, +1 Science] [non-[in all cities connected to capital]]", "[+1 Faith, +1 Food] from each Trade Route", "Gain [20]-[60] [Faith] <upon declaring friendship>", "Gain [20]-[30] [Science] <upon declaring friendship>", "Allied City-States provide [Science] equal to [15]% of what they produce for themselves", "[+67]% resources gifted by City-States" ]
+		"uniques": ["[+1 Production, +1 Food, +1 Happiness] [in all cities connected to capital]", "[-1 Production, -1 Food, -1 Happiness] [in capital]", "[+1 Culture, +1 Faith, +1 Science] [non-[in all cities connected to capital]]", "[+2 Faith] from each Trade Route", "Gain [20]-[60] [Faith] <upon declaring friendship>", "Gain [20]-[30] [Science] <upon declaring friendship>", "Allied City-States provide [Faith] equal to [25]% of what they produce for themselves", "Resting point for Influence with City-States is increased by [10] <when above [90] [Faith]>", "Allied City-States provide [Science] equal to [15]% of what they produce for themselves <when above [150] [Faith]>", "[+50]% resources gifted by City-States <when above [210] [Faith]>"]
 		"cities": ["Susa","Anshan","Awan","Hidalu","Dur Untash","Borahshi","Der","Bit Bunakki","Hamazi","Malyan",
 		"Shimashki","Zahara","Bashime","Sherihun","Marhashi","Dur-Kindattu","Yahya","Shahr-i-Sokhta","Choga Mish","Sialk",
 		"Godin Tepe","Ozbaki","Sofalin","Tal-i Ghazir", "Hissar","Dur-Luhishan","Dur-Epirmupi","Dur-Girnamme"]
@@ -113,10 +113,10 @@
 
 		"tradeRequest": "Greetings mortal, we have goods to exchange, yes?",
 
-		"outerColor": [45,113,252],
-		"innerColor": [240,44,24],
+		"outerColor": [32,134,235],
+		"innerColor": [224,44,24],
 		"uniqueName": "First civilization of Europe",
-		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+1 Culture] from all [Happiness] buildings <during a Golden Age>", "[13]% of excess happiness converted to [Culture]", "[+12]% [Science] [in all coastal cities] <during a Golden Age>", "[+12]% [Gold] [in all coastal cities] <when not at war>", "[-25]% Production when constructing [Land] units [in all cities]"]
+		"uniques": ["[+1 Faith] from [Cattle] tiles [in all cities]","[+1 Happiness] from all [Culture] buildings", "[+1 Culture] from all [Happiness] buildings <during a Golden Age>", "[12]% of excess happiness converted to [Culture]", "[+12]% [Science] [in all coastal cities] <during a Golden Age>", "[+12]% [Gold] [in all coastal cities] <when not at war>", "[-25]% Production when constructing [Land] units [in all cities]"]
 		"cities": ["Knossos","Phaistos","Malia","Zakros","Akotiri","Gournia","Myrtos","Agia Triadha","Ida","Khania",
 		"Sklavokambos","Tylissos","Amnisos","Nirou Khani","Vathypero","Arcanes","Agia Pelagia","Vasiliki","Kamaizi","Armenoi",
 		"Maleme","Platyvola","Kalami","Stylos","Myxorrouma","Saklouria","Apodhoulou"]
@@ -256,8 +256,8 @@
 		"hateHello": "Fuck you all my homies hate you your capital will be razed at temperatures upwards of 1400°C.",
 		"tradeRequest": "Friend you accept this agreement yes, yes you do.",
 
-        "outerColor": [49,161,35],
-        "innerColor": [238,235,241],
+        "outerColor": [45,141,31],
+        "innerColor": [81,18,24],
 
 		"favouredReligion": "Zoroastrianism",
 		"uniqueName": "Praise Zurvan",
