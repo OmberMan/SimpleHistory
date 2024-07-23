@@ -2,16 +2,16 @@
 	{
 		"name": "Laputtu",
 		"replaces": "Spearman",
-		"uniqueTo": "Akkad",
+		"uniqueTo": "Babylon",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 11,
-		"cost": 56,
+		"cost": 70,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"promotions": ["Shock I"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% XP gained from combat <when defending>", "[+30]% Strength decreasing with distance from the capital"],
+"promotions": ["Cover I"],
 		"attackSound": "metalhit"
 	},
 	{
