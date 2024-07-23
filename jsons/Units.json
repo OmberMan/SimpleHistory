@@ -21,13 +21,13 @@
 		"unitType": "Mounted",
 		"movement": 3,
 		"strength": 10,
-		"cost": 56,
+		"cost": 52,
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
                 "requiredResource": "Horses",
-                "uniques": ["No defensive terrain bonus", "Rough terrain penalty"],
+                "uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[+15]% Strength <when defending>", "[-33]% Strength <vs cities> <when attacking>"],
                 "promotions": ["Cover I", "Cover II"]
-		"attackSound": "nonmetalhit"
+		"attackSound": "throw"
 	},
 	{
 		"name": "Elamite Bowman",
@@ -55,7 +55,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
-  "uniques": ["[+15]% Strength <vs [Sword] units>", "[-15]% Strength <when defending>", "[-15]% XP gained from combat", "[+15]% Strength <when attacking>"],
+  "uniques": ["[+20]% Strength <vs [Sword] units>", "[-15]% Strength <when defending>", "[-15]% XP gained from combat", "[+15]% Strength <when attacking>"],
 	},
 	{
 		"name": "Minoan Archer",
@@ -98,7 +98,7 @@
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
-		"uniques": ["No movement cost to pillage","No defensive terrain bonus","Rough terrain penalty","[-33]% Strength <vs cities> <when attacking>", "Earn [33]% of killed [Wounded] unit's [Strength] as [Faith]", "[-5]% Strength for enemy [Land] units in adjacent [Enemy Land] tiles", "[+25]% Strength <when attacking> <when fighting in [Enemy Land] tiles>"],
+		"uniques": ["No movement cost to pillage","No defensive terrain bonus","Rough terrain penalty","[-33]% Strength <vs cities> <when attacking>", "Earn [33]% of killed [All] unit's [Strength] as [Faith]", "[-5]% Strength for enemy [Land] units in adjacent [Enemy Land] tiles", "[+25]% Strength <when attacking> <when fighting in [Enemy Land] tiles>"],
   "promotions": ["Charge"],
 		"hurryCostModifier": 30,
 		"attackSound": "horse"
@@ -108,10 +108,10 @@
 		"replaces": "Missionary"
 		"uniqueTo": "India"
 		"unitType": "Civilian",
-		"uniques": ["Can [Spread Religion] [2] times", "All adjacent units heal [10] HP when healing", "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there", "Ignores terrain cost", "[-25]% Strength for enemy [Land] units in adjacent [Friendly Land] tiles <when attacking>",
+		"uniques": ["Can [Spread Religion] [2] times", "All adjacent units heal [20] HP when healing", "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there", "Ignores terrain cost", "[-20]% Strength for enemy [Land] units in adjacent [Friendly Land] tiles <when attacking>",
 			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
-			"Unbuildable", "Religious Unit", "Hidden when religion is disabled"],
-		"movement": 5,
+			"Unbuildable", "Religious Unit"],
+		"movement": 3,
 		"religiousStrength": 1200
 	},
 	{
@@ -124,7 +124,7 @@
 		"rangedStrength": 11,
 		"cost": 70,
                 "maintenance": 0,
-                "hurryCostModifier": 0,
+                "hurryCostModifier": 20,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"promotions": ["Accuracy I","Barrage I"],
@@ -143,7 +143,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% XP gained from combat <when fighting units from a Civilization with more Cities than you>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% XP gained from combat <when fighting units from a Civilization with more Cities than you>", "Earn [10]% of killed [Melee] unit's [Strength] as [Science]"],
 		"promotions": ["Drill I"],
 		"attackSound": "metalhit"
 	},
