@@ -20,7 +20,7 @@
 		"requiredNearbyImprovedResources": ["Marble", "Stone", "Copper"],
 		"maintenance": 1,
 		"hurryCostModifier": 20,
-		"uniques": ["[+1 Culture, +1 Faith] from [Stone] tiles [in this city]","[+1 Culture, +1 Faith] from [Marble] tiles [in this city]","[+1 Culture] from [Copper] tiles [in this city]"],
+		"uniques": ["[+1 Culture, +1 Faith, +1 Gold] from [Stone] tiles [in this city]","[+1 Culture, +1 Faith] from [Marble] tiles [in this city]","[+1 Culture] from [Copper] tiles [in this city]"],
 		"specialistSlots": {"Artist": 1},
 		"requiredTech": "Masonry"
         },
@@ -40,7 +40,7 @@
 		"name": "Sewers",
 		"uniqueTo": "Minoa",
 		"replaces": "Aqueduct",
-		"maintenance": 1,
+		"maintenance": 2,
 		"cost": 125,
   "happiness": 2,
 		"hurryCostModifier": 20,
@@ -74,9 +74,9 @@
 		"uniqueTo": "Urartu",
                 "replaces": "Aqueduct",
 		"maintenance": 1,
-		"food": 1,
+		"food": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Must have an owned [Mountain] within [2] tiles","[+1 Food, +1 Production] from [Mountain] tiles [in this city]", "[+1 Gold, +1 Production] from [Wine] tiles [in this city]", "[+10]% [Food] [in this city]"],
+		"uniques": ["Must have an owned [Mountain] within [2] tiles","[+1 Food, +1 Production] from [Mountain] tiles [in this city]", "[+1 Gold, +1 Production] from [Wine] tiles [in this city]", "[+10]% growth [in this city]"],
 		"requiredTech": "Construction"
 	},
 	{
@@ -84,10 +84,10 @@
 		"uniqueTo": "Medes"
 		"replaces": "Temple"
 		"faith": 2,
-  "greatPersonPoints": {"Great Artist": 1},
-                "percentStatBonus": {"science": 10},
+  "greatPersonPoints": {"Great Prophet": 1},
+  "percentStatBonus": {"science": 10},
 		"requiredBuilding": "Shrine",
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 30,
 		"requiredTech": "Calendar",
 		"uniques": ["[-10]% Unhappiness from [Population] [in this city]"]
