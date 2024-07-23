@@ -10,7 +10,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+50]% XP gained from combat <when defending>", "[+30]% Strength decreasing with distance from the capital"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "[+67]% XP gained from combat <when defending>", "[+30]% Strength <in tiles adjacent to [City center]>"],
 "promotions": ["Cover I"],
 		"attackSound": "metalhit"
 	},
