@@ -1,21 +1,12 @@
 [
-	{
-		"name": "Oasis Farm",
-		"uniqueTo": "Nubia"
-		"terrainsCanBeBuiltOn": ["Desert"],
-  "food": 1,
-		"turnsToBuild": 7,
-		"techRequired": "Construction",
-		"uniques": ["Removes removable features when built", "Adjacent enemy units ending their turn take [10] damage", "[+1 Food] for each adjacent [Oasis]", "[+1 Gold] for each adjacent [Flood Plains]", "Cannot be built on [Oasis] tiles", "Can only be built <within [2] tiles of a [Fresh Water]>", "[+1 Production] <in [River] tiles>", "Cannot be built on [Hill] tiles"]
-	},
 {
 		"name": "Nubian Pyramid",
 		"uniqueTo": "Nubia"
 		"terrainsCanBeBuiltOn": ["Desert", "Plains"],
 		"faith": 1,
   "culture": 1,
-		"turnsToBuild": 8,
+		"turnsToBuild": 7,
 		"techRequired": "Masonry",
-		"uniques": ["Removes removable features when built", "Pillaging this improvement yields approximately [+36 Gold]", "Gives a defensive bonus of [+15]%", "Cannot be built on [Oasis] tiles", "Cannot be built on [Hill] tiles", "Can only be built <in tiles not adjacent to [Nubian Pyramid]>", "[-1 Faith, +1 Culture, +2 Gold] <starting from the [Medieval era]>"]
+		"uniques": ["Removes removable features when built", "Pillaging this improvement yields approximately [+36 Gold]", "Adjacent enemy units ending their turn take [10] damage", "Cannot be built on [Oasis] tiles", "Cannot be built on [Hill] tiles", "Can only be built <in tiles not adjacent to [Nubian Pyramid]>", "[+1 Faith] <in [River] tiles>", "[-1 Faith, +1 Culture, +1 Gold] <starting from the [Medieval era]>"]
 	},
 ]
