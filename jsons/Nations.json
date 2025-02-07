@@ -201,8 +201,8 @@
         "innerColor": [74,64,11],
 
 		"uniqueName": "Ta-Seti",
-		"uniques":["[+33]% Production when constructing [Ranged] units [in all cities with a garrison]", "Empire enters a [5] Golden Age <upon conquering a city> <with [50]% chance>", "[+2 Culture, +1 Science, +1 Gold] from all [Wonder] buildings <in [annexed] cities>",
-					"[+25]% Strength <for [Archery] units> <when attacking> <vs cities>", "[+1 Production] from [Desert] tiles without [Hill] [in all non-occupied cities] <when at war>"],
+		"uniques":["[+33]% Production when constructing [Ranged] units [in all cities with a garrison]", "Empire enters a [4] Golden Age <upon conquering a city> <with [50]% chance>", "[+2 Culture, +1 Science, +1 Gold] from all [Wonder] buildings <in [annexed] cities>",
+					"[+25]% Strength <for [Archery] units> <when attacking> <vs cities>", "[+1 Production] from [{Desert} {River}] tiles [in all non-occupied cities] <when at war>"],
 		"cities": ["Meroe","Napata","Kerma","Nuri","Kawa","Buhen","Abu Simbel","Nabta Playa","El-Kurru","Sedeinga",
 		"Heh","Shaat","Iken","Abu Simbel","Dengeil","Miam","Tombos","Kurgus","Toshka","Soleb"]
     },
@@ -261,7 +261,7 @@
 
 		"favouredReligion": "Zoroastrianism",
 		"uniqueName": "Praise Zurvan",
-		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-50]% maintenance <for [Mounted] units>", "[+1 Science, +1 Gold] from each Trade Route", "[7] units cost no maintenance <while the empire is happy>", "Improves movement speed on roads", "[-1 Happiness] from all [Courthouse] buildings", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [1] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [2] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [3] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [4] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [5] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [6] of [in all cities connected to capital] cities>",
+		"uniques": ["[+1 Production] from [Camp] tiles [in all cities]","[-50]% maintenance <for [Mounted] units>", "[+1 Science, +1 Gold] from each Trade Route", "[7] units cost no maintenance <while the empire is happy>", "Improves movement speed on roads", "[-1 Happiness] from all [Courthouse] buildings", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [1] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [2] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [3] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [4] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [5] of [in all cities connected to capital] cities>", "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [6] of [in all cities connected to capital] cities>", "[-10]% Culture cost of natural border growth [in all cities connected to the capital]",
 "[+1 Science, +1 Production] [in capital] <if [Courthouse] is constructed in at least [7] of [in all cities connected to capital] cities>"],
 		"cities": ["Hagmatana","Khalmanu","Erbil","Tuspa","Raga","Qumis","Vishpauzati","Tusha","Mouru","Termez",
 		"Zariaspa","Zranka","Kirkuk","Amida","Teishebani"]
